@@ -1,0 +1,73 @@
+{
+  "run_id": "et_s3",
+  "formal_fixed_rule": true,
+  "diagnostic_only": false,
+  "fixed_segment_mode": "global",
+  "fixed_min_rows": 4,
+  "fixed_rule_source": "Pre-registered here from the strongest simple diagnostic family: global segmentation with min_rows=4. This script evaluates no alternative segment modes or min_rows values and does not rank by holdout metrics.",
+  "selection_uses_holdout_acceptance": false,
+  "holdout_metrics_report_only": true,
+  "random_weight_selection_is_fold_train_only": true,
+  "holdout_weight_selection_uses_train_role_only": true,
+  "uses_test_validation_experimental_labels_for_selection": false,
+  "target_thresholds": {
+    "random_cv_r2_mean": 0.8,
+    "test_r2": 0.85,
+    "validation_r2": 0.8,
+    "experimental_r2": 0.8
+  },
+  "weight_grid": [
+    0.0,
+    0.05,
+    0.1,
+    0.15,
+    0.2,
+    0.25,
+    0.3,
+    0.35,
+    0.4,
+    0.5,
+    0.6,
+    0.8,
+    1.0
+  ],
+  "random_cv": {
+    "r2_mean": 0.8032060345171681,
+    "rmse_mean": 0.48827368259930387,
+    "r2_min": 0.7808751721336585,
+    "r2_max": 0.8352483725135893,
+    "seed_count": 10
+  },
+  "holdout_by_role": {
+    "train": {
+      "r2": 0.9724118686109764,
+      "rmse": 0.18296840637566036,
+      "n": 2910
+    },
+    "test": {
+      "r2": 0.8647177006284426,
+      "rmse": 0.3957349810902995,
+      "n": 37,
+      "mae": 0.2902431755136905
+    },
+    "validation": {
+      "r2": 0.8008133745306238,
+      "rmse": 0.4956180635782236,
+      "n": 37,
+      "mae": 0.363667642372396
+    },
+    "experimental": {
+      "r2": 0.8482372455011926,
+      "rmse": 0.1693083207683734,
+      "n": 4,
+      "mae": 0.1112434797313615
+    }
+  },
+  "passes_random_cv80": true,
+  "passes_test85": true,
+  "passes_validation80": true,
+  "passes_experimental80": true,
+  "passes_overall_formal_randomcv80_holdout85_80_80": true,
+  "scientific_boundary": "Formal fixed-rule finalizer over existing prediction sources. Random-CV blend weights are selected inside each seed using only other random folds. Holdout blend weights are selected using train-role labels only; test, validation, and experimental labels are report-only gates.",
+  "metric_aggregation": "arithmetic mean of ten seed-specific metrics"
+}

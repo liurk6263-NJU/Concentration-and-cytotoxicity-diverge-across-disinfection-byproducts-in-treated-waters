@@ -1,0 +1,13 @@
+{
+  "manifest_version": "external_validation_only_20260604_v1",
+  "workbook": {
+    "name": "DBPs_CHO_LC50_DBPs_20260604.xlsx",
+    "sha256": "f846e9aecf87dc6cb66565f921976fd04c2098ef561bd1ee903785ce6bef7658"
+  },
+  "sheet_name": "文献数据",
+  "source_column": "文献来源_二级(文献中文名，DOI即可)",
+  "selected_sources": [],
+  "validation_source_row_count": 0,
+  "validation_rows_hash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+  "generated_at_utc": "2026-06-04T11:42:40+00:00"
+}

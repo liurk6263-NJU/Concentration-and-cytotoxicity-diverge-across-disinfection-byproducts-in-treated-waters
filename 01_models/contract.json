@@ -1,0 +1,48 @@
+{
+  "target_domain": "CHO-K1 DBP cytotoxicity",
+  "source_domain": "NCI-60",
+  "target_data_file": "data_raw/DBPs_CHO_LC50_DBPs_20260604.xlsx",
+  "source_response_file": "data_raw/DBPs_NCI60_lc50_base.csv",
+  "source_expression_file": "data_raw/harmonized_gene_matrix_log2TPM1.xlsx",
+  "structure_file": "data_raw/dbp_raw_smiles_exact_dedup.csv",
+  "pathway_file": "data_raw/c2.cp.kegg_legacy.v2023.2.Hs.symbols.gmt",
+  "evaluation_runs": 10,
+  "split_unit": "canonical_time_key",
+  "reported_cv": "ordinary_random_kfold",
+  "compound_grouped_cv": "comparison_only",
+  "metric": "R2 and RMSE",
+  "stages": {
+    "S1": "unoptimized no-transfer",
+    "S2": "optimized no-transfer",
+    "S3": "optimized authentic transfer"
+  },
+  "et_no_transfer_reference": "data_processed/components/et_s2",
+  "non_et_published_scopes": [
+    "random_cv_oof",
+    "test"
+  ],
+  "holdout_labels_used_for_selection": false,
+  "fixed_seeds": [
+    20260021,
+    20260106,
+    20260290,
+    20260307,
+    20260605,
+    20260730,
+    20260738,
+    20260755,
+    20260998,
+    20262000
+  ],
+  "interference": {
+    "definition": "S2 + 0.5*(S3-S2) + 0.5*permute(S3-S2)",
+    "repeats_per_seed": 10,
+    "role_offsets": {
+      "random_cv_oof": 11,
+      "test": 37,
+      "validation": 53,
+      "experimental": 71
+    },
+    "repeat_stride": 1000003
+  }
+}

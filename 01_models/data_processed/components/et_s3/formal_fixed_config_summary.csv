@@ -1,0 +1,2 @@
+segment_mode,min_rows,random_cv_r2_mean,random_cv_rmse_mean,train_r2,train_rmse,test_r2,test_rmse,validation_r2,validation_rmse,experimental_r2,experimental_rmse,passes_random_cv80,passes_test85,passes_validation80,passes_experimental80,passes_overall_formal_randomcv80_holdout85_80_80
+global,4,0.8032060345171681,0.48827368259930387,0.9724118686109764,0.18296840637566036,0.8642623026936477,0.39814197888769925,0.8008133745306238,0.4964870773598471,0.8482372455011927,0.17082535614466984,True,True,True,True,True

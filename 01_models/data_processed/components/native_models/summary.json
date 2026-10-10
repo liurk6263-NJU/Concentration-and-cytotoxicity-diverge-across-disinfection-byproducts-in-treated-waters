@@ -1,0 +1,27 @@
+{
+  "run_id": "native_models",
+  "source_runs": [
+    "formal_family_regularized_native_missing8_20260821",
+    "preflight_family_regularized_native_seed20260021_20260821",
+    "formal_family_regularized_native_seed20260106_20260821"
+  ],
+  "fixed_seeds": [
+    20260021,
+    20260106,
+    20260290,
+    20260307,
+    20260605,
+    20260730,
+    20260738,
+    20260755,
+    20260998,
+    20262000
+  ],
+  "raw_data_merge_only": true,
+  "random_rows": 11640,
+  "holdout_rows": 14760,
+  "raw_native_leakage_hard_failure_count": 0,
+  "duplicate_random_keys": 0,
+  "duplicate_holdout_keys": 0,
+  "selection_labels_used": false
+}

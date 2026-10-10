@@ -1,0 +1,41 @@
+{
+  "run_id": "et_s2",
+  "source_archive": "et_s123_ablation_e2e_20260821_v2.zip",
+  "stage": "S2",
+  "definition": "Optimized CHO-only ET model without NCI-60 transfer features; frozen prediction reference for the current ET-S3 ablation.",
+  "fixed_run_count": 10,
+  "labels_used_for_selection": false,
+  "prediction_rows": 6600,
+  "metrics_by_role": [
+    {
+      "split_role": "experimental",
+      "r2_mean": 0.050988864492736194,
+      "rmse_mean": 0.42613455540431994,
+      "seed_count": 10
+    },
+    {
+      "split_role": "random_cv_oof",
+      "r2_mean": 0.570029146671044,
+      "rmse_mean": 0.7222229116952068,
+      "seed_count": 10
+    },
+    {
+      "split_role": "test",
+      "r2_mean": 0.7496772140953514,
+      "rmse_mean": 0.5357789812147762,
+      "seed_count": 10
+    },
+    {
+      "split_role": "train",
+      "r2_mean": 0.570029146671044,
+      "rmse_mean": 0.7222229116952068,
+      "seed_count": 10
+    },
+    {
+      "split_role": "validation",
+      "r2_mean": 0.5933295293585359,
+      "rmse_mean": 0.7087071158893573,
+      "seed_count": 10
+    }
+  ]
+}

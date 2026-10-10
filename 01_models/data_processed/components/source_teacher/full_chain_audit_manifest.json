@@ -1,0 +1,29 @@
+{
+  "run_id": "source_teacher",
+  "raw_data_only_policy": true,
+  "checks": {
+    "uses_test_validation_experimental_labels_for_selection": false,
+    "component_runtime_prediction_inputs_current_run_memory_only": true,
+    "component_leakage_hard_failure_count": 0,
+    "descriptor_fold_train_only": true,
+    "descriptor_uses_holdout_labels": false,
+    "upstream_root_leakage_hard_failure_count": 0,
+    "upstream_native_leakage_hard_failure_count": 0,
+    "upstream_required_modules_recorded": true,
+    "component_random_duplicate_keys": 0,
+    "component_holdout_duplicate_keys": 0,
+    "final_random_duplicate_keys": 0,
+    "final_holdout_duplicate_keys": 0,
+    "descriptor_alignment_rows": 2910,
+    "descriptor_alignment_max_abs_difference": 8.881784197001252e-16,
+    "candidate_selection_scope_is_train_only": true,
+    "holdout_weight_selection_scope_is_train_only": true
+  },
+  "audit_failures": [],
+  "passes_scientific_no_leakage_audit": true,
+  "input_hashes": {
+    "cho_workbook": "f846e9aecf87dc6cb66565f921976fd04c2098ef561bd1ee903785ce6bef7658",
+    "nci_source_rows": "b050993845e23797545163b5c8d35a665e2fd1c51d34a45f0755b486321c4858"
+  },
+  "summary_sha256": "860272a83d40e300a28d99eac1de88eeb2fb97df00378fab4795e00d1da2259e"
+}

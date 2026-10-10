@@ -1,0 +1,129 @@
+{
+  "run_id": "source_teacher",
+  "diagnostic_only": false,
+  "component_run_id": "formal_fixedbest10_relaxed_raw_full_chain_20260819",
+  "descriptor_run_id": "formal_fixedbest10_relaxed_raw_full_chain_20260819_descriptor_knn_nested_localprobe",
+  "upstream_full_chain_audit": "data_processed/components/source_teacher/full_chain_audit_manifest.json",
+  "upstream_modules": [
+    "residual_bin",
+    "native_s3",
+    "native_family_stack",
+    "three_source_stack",
+    "oof_combo",
+    "oracle_nested",
+    "descriptor_knn_nested"
+  ],
+  "fixed_seeds": [
+    20260021,
+    20260106,
+    20260290,
+    20260307,
+    20260605,
+    20260730,
+    20260738,
+    20260755,
+    20260998,
+    20262000
+  ],
+  "selected_holdout_candidate": {
+    "w_current": 0.15,
+    "w_atom": 0.4,
+    "w_shrink": 0.45,
+    "topk": 20,
+    "power": 4.0,
+    "alpha": -1.0
+  },
+  "candidate_selection_scope": "train_role_only_pooled_across_selected_seeds",
+  "holdout_weight_selection_scope": "train_role_only_per_seed",
+  "random_descriptor_selection_scope": "current_run_nested_fold_train_only",
+  "uses_test_validation_experimental_labels_for_selection": false,
+  "random_cv": [
+    {
+      "split_seed": 20260021,
+      "n": 291,
+      "r2": 0.8023361309031705,
+      "rmse": 0.49325971170730354
+    },
+    {
+      "split_seed": 20260106,
+      "n": 291,
+      "r2": 0.8051376962294368,
+      "rmse": 0.48362022072947763
+    },
+    {
+      "split_seed": 20260290,
+      "n": 291,
+      "r2": 0.8181641110273834,
+      "rmse": 0.470510350582437
+    },
+    {
+      "split_seed": 20260307,
+      "n": 291,
+      "r2": 0.8414209877608558,
+      "rmse": 0.4406742535221596
+    },
+    {
+      "split_seed": 20260605,
+      "n": 291,
+      "r2": 0.7966161276858126,
+      "rmse": 0.4927981177475594
+    },
+    {
+      "split_seed": 20260730,
+      "n": 291,
+      "r2": 0.8032044782008326,
+      "rmse": 0.4909646699078408
+    },
+    {
+      "split_seed": 20260738,
+      "n": 291,
+      "r2": 0.7983664856481548,
+      "rmse": 0.4966545100489013
+    },
+    {
+      "split_seed": 20260755,
+      "n": 291,
+      "r2": 0.8274018681804136,
+      "rmse": 0.45522773931706206
+    },
+    {
+      "split_seed": 20260998,
+      "n": 291,
+      "r2": 0.7999121607779185,
+      "rmse": 0.49027307636168577
+    },
+    {
+      "split_seed": 20262000,
+      "n": 291,
+      "r2": 0.7857386111247691,
+      "rmse": 0.5106685827668301
+    }
+  ],
+  "holdout_by_role": [
+    {
+      "split_role": "experimental",
+      "n": 40,
+      "r2": 0.8438257168993765,
+      "rmse": 0.1732903963938363
+    },
+    {
+      "split_role": "test",
+      "n": 370,
+      "r2": 0.8642779033337553,
+      "rmse": 0.3981190985518504
+    },
+    {
+      "split_role": "train",
+      "n": 2910,
+      "r2": 0.9784734623241083,
+      "rmse": 0.1616225871654942
+    },
+    {
+      "split_role": "validation",
+      "n": 370,
+      "r2": 0.8112830309853863,
+      "rmse": 0.4832627694965144
+    }
+  ],
+  "scientific_boundary": "All component and descriptor predictions are current-run raw-data outputs. Holdout candidate/calibration/weight selection reads train-role labels only; test, validation, and experimental labels are report-only."
+}
