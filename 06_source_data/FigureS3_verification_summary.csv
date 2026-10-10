@@ -1,0 +1,4 @@
+﻿Group,CAT_exp,CAT_pred,BCAT,MDR_exp,MDR_pred,MDR_BCAT_reference,CI_exp_low,CI_exp_high,CI_pred_low,CI_pred_high,p_exp,p_pred,D_exp_percent,D_pred_percent,verification_basis,verification_status
+Group1,0.0004486166548753,0.0005739605574304,0.000609,1.3575064443,1.061,1.0,1.2068096415,1.5267315424,0.949,1.187,p=0.002,p<0.001,9.43,2.16,equitoxic contribution reverse calculation against current SI frozen values,passed
+Group2,0.0018545932392066,0.002181081081081,0.001614,0.870271694,0.74,1.0,0.8310340107,0.9115215662,0.67,0.81,p<0.001,p<0.001,14.51,16.35,equitoxic contribution reverse calculation against current SI frozen values,passed
+Group3,0.0007224712061763,0.0009090909090909,0.0008,1.1073105657,0.88,1.0,1.0528914567,1.165278747,0.83,0.93,p<0.001,p<0.001,6.57,15.82,equitoxic contribution reverse calculation against current SI frozen values,passed

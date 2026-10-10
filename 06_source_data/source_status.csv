@@ -1,0 +1,15 @@
+paper_item,panels,source_status,details
+Figure 1,Workflow,conceptual,No numeric dataset required.
+Figure 2,a-d,original inputs and seed-level predictions retained,Ten-run metrics and interference repeats are retained.
+Figure 3,"a,b",original Ci data retained,"614 records, 329 displayed occurrence rows, 12 mapped samples."
+Figure 3,"c,d",verified by model/back-calculation,Final-model prediction and back-calculation agree within the author-defined small-difference criterion; Fig3_verification records floating-point closure.
+Figure 4,a-c,point-level results and inputs retained,"SHAP points, pathway perturbations, structure-series predictions and shared model inputs are retained."
+Figure 5,a-c,point-level results and inputs retained,"Catalogue records, per-seed predictions, 100+100 selected bars, embedding points and six local structures are retained."
+Figure S1,"a,b",seed-observation predictions retained,Five model families and three stages.
+Figure S2,a-d,control predictions retained,Identity-excluded and channel-ablation predictions.
+Figure S3,BCAT and experimental D,original fitted LC50 supports values,Calculated directly from the original mixture worksheet.
+Figure S3,prediction D,recorded source recovered,D matches the recovered diagnostic mixture-LC50 export. It is not the source of frozen S3a model CAT.
+Figure S3,model CAT and CI/p,verified by equitoxic reverse calculation,"Equitoxic contribution back-calculation matches current SI CAT, MDR and CI/p values; FigS3_verification records the values; direct Ci is not expected for this design."
+Figure S4,"a,b",heatmap values and sources retained,"Cross-cell responses, pathway values and local structures."
+Figure S5,a-d,independently recalculated,2910 OOF rows for structural support; 369 observations for dispersion. Display 0.158/0.228.
+Tables S1-S9,all,current SI values retained,"Table S6 uses 1120 unique structures, 25/5. Its distinct 2857-pair unit is separately annotated."

@@ -1,0 +1,3 @@
+﻿display_sample,compound_label,SMILES,raw_concentration_ug_L,sample_total_ug_L,calculated_concentration_share_pct,SI_displayed_concentration_share_pct,SI_displayed_CAT_share_pct,status
+S12,dichloroacetaldehyde + chloroacetone,O=CC(Cl)Cl + CC(=O)CCl,16.0,70.31,22.75636467074385,22.8,77.1,consistent: combined raw concentration is 16.0 ug/L and SI column is concentration share (%)
+S12,chloroacetone,CC(=O)CCl,2.0,70.31,2.844545583842981,2.8,25.3,consistent: 2.0 ug/L rounds to 2.8% of S12 total concentration

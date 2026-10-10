@@ -1,0 +1,13 @@
+﻿sample,original_sample_id,cat_total,cat_component_sum,absolute_difference,relative_difference_pct,verification_basis,verification_status
+S1,4,0.0044,0.004399999999999689,-3.1138286393783687e-16,-7.076883271314474e-12,sum of displayed category CAT components compared with frozen sample CAT total,passed: floating-point rounding only
+S2,5,0.0022,0.0021999999999996085,-3.916138247017642e-16,-1.7800628395534734e-11,sum of displayed category CAT components compared with frozen sample CAT total,passed: floating-point rounding only
+S3,1,0.0018,0.0017999999999997718,-2.2811613709095013e-16,-1.2673118727275008e-11,sum of displayed category CAT components compared with frozen sample CAT total,passed: floating-point rounding only
+S4,2,0.0031,0.0030999999999997566,-2.432949675057472e-16,-7.84822475824991e-12,sum of displayed category CAT components compared with frozen sample CAT total,passed: floating-point rounding only
+S5,3,0.002,0.0019999999999996743,-3.2569433261464553e-16,-1.6284716630732277e-11,sum of displayed category CAT components compared with frozen sample CAT total,passed: floating-point rounding only
+S6,6,0.0022,0.002199999999999757,-2.432949675057472e-16,-1.1058862159352145e-11,sum of displayed category CAT components compared with frozen sample CAT total,passed: floating-point rounding only
+S7,8,0.0027,0.0026999999999997,-3.0010716134398763e-16,-1.1115080049777318e-11,sum of displayed category CAT components compared with frozen sample CAT total,passed: floating-point rounding only
+S8,9,0.0018,0.001799999999999883,-1.1687699419393738e-16,-6.493166344107632e-12,sum of displayed category CAT components compared with frozen sample CAT total,passed: floating-point rounding only
+S9,10,0.001253,0.0012529999999997912,-2.0881733842070815e-16,-1.6665390137327068e-11,sum of displayed category CAT components compared with frozen sample CAT total,passed: floating-point rounding only
+S10,11,0.003,0.002999999999999659,-3.408731630294426e-16,-1.1362438767648086e-11,sum of displayed category CAT components compared with frozen sample CAT total,passed: floating-point rounding only
+S11,12,0.0043,0.004299999999999726,-2.740863092043355e-16,-6.3741002140543146e-12,sum of displayed category CAT components compared with frozen sample CAT total,passed: floating-point rounding only
+S12,7,0.006691,0.006690999999999786,-2.1423834928313568e-16,-3.2018883467812836e-12,sum of displayed category CAT components compared with frozen sample CAT total,passed: floating-point rounding only

@@ -1,0 +1,4 @@
+﻿group,assumed_total_LC50_M,measured_total_LC50_M,measured_total_LC50_error_M,BCAT_from_raw_LC50,D_from_raw_LC50_percent,source_path,source_sheet,source_excel_row
+Group1,0.001803962,0.001641481,0.000120113,0.0006092059548663676,9.431646380450937,05_supplementary/S3_mixtures/data_raw/混合毒性-1.xlsx,Sheet1,3
+Group2,0.000535774,0.0006195650000000001,1.7802e-05,0.0016140356540475978,14.505006755592957,05_supplementary/S3_mixtures/data_raw/混合毒性-1.xlsx,Sheet1,10
+Group3,0.001169868,0.001249279,4.1277000000000005e-05,0.0008004617063122009,6.565206661686963,05_supplementary/S3_mixtures/data_raw/混合毒性-1.xlsx,Sheet1,17

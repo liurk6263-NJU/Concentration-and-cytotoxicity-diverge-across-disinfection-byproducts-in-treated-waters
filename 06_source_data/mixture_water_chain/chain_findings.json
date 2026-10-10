@@ -1,0 +1,54 @@
+{
+  "water": {
+    "raw_rows": 614,
+    "displayed_rows": 329,
+    "unique_raw_smiles": 77,
+    "canonical_smiles": 77,
+    "original_sample_order": [
+      4,
+      5,
+      1,
+      2,
+      3,
+      6,
+      8,
+      9,
+      10,
+      11,
+      12,
+      7
+    ],
+    "candidate_prediction_missing_smiles": [
+      "O=C/C(=C(/Br)C(=O)O)C(Br)Br",
+      "O=C/C(=C(/Cl)C(=O)O)C(Br)Br",
+      "O=C/C(=C(/Cl)C(=O)O)C(Cl)Br",
+      "O=C/C(=C(/Cl)C(=O)O)C(Cl)Cl",
+      "O=C/C(=C(\\Cl)C(=O)O)C(Cl)Cl",
+      "O=C1OC(O)CC(C(Cl)Cl)C1Cl"
+    ],
+    "full_CAT_chain_closed": false,
+    "frozen_CAT_source": "nature_water_fig5_adobe_work_20260907/extract_fig5_source.py",
+    "source_evidence": "CAT_TOTALS is fixed; digitized_cat_percentages() reads color pixels from legacy PNG. No per-compound model/Ci join is executed.",
+    "CAT_formula_author_defined": "sum(Ci_mol_L / final_model_LC50_mol_L)",
+    "missing": [
+      "Definitive final-model water-compound prediction input used for frozen Figure 3 CAT",
+      "Per-compound CAT contribution output for displayed samples"
+    ]
+  },
+  "mixture": {
+    "raw_mixture_LC50_rows": 3,
+    "single_compound_rows": 4,
+    "final_model_prediction_rows": 40,
+    "BCAT_formula": "1 / (raw measured total LC50_M * 1e6)",
+    "experimental_D_formula_observed": "200 * abs(raw assumed total LC50_M - raw measured total LC50_M) / (raw assumed + raw measured)",
+    "raw_assumed_LC50_matches": "Mean of the corresponding raw N single-compound mean LC50 values (rounded in mixture workbook)",
+    "full_model_CAT_CI_p_D_chain_closed": false,
+    "diagnostic_only": "Recipe diagnostics are not source data and must not replace frozen figures. Physical equal-toxicity mixture recipe must be identified.",
+    "missing": [
+      "Final molar recipe fractions or Ci per mixture used for model CAT",
+      "Repeated BCAT/CAT or MDR input rows and exact CI/TOST settings used for frozen CI/p",
+      "Prediction D input and exact statistic level"
+    ],
+    "current_plot_source": "05_supplementary/S3_mixtures/code/plot.py contains frozen CAT/MDR/CI/p/D and divides each CAT stack equally."
+  }
+}
