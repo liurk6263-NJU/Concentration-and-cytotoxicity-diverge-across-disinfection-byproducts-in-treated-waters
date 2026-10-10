@@ -1,0 +1,7 @@
+{
+  "SHAP": "TreeSHAP of an interpretable ExtraTrees surrogate",
+  "surrogate_target": "mean of ten ET-S3 out-of-sample predictions",
+  "surrogate_fidelity_group_cv_r2": 0.9064271655008758,
+  "structure_series_time_h": 72,
+  "pathway_interpretation": "conditional predictive effect"
+}

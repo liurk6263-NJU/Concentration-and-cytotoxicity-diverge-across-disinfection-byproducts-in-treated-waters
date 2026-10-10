@@ -1,0 +1,43 @@
+{
+  "run_id": "kegg_pathway_incremental_top10_20260904",
+  "analysis": "KEGG pathway-specific conditional incremental predictive contribution",
+  "causal_claim_boundary": "Observational model ablation; not biological causality.",
+  "seeds": [
+    20260021,
+    20260106,
+    20260290,
+    20260307,
+    20260605,
+    20260730,
+    20260738,
+    20260755,
+    20260998,
+    20262000
+  ],
+  "pathways": [
+    "kegg_KEGG_APOPTOSIS",
+    "kegg_KEGG_P53_SIGNALING_PATHWAY",
+    "kegg_KEGG_BASE_EXCISION_REPAIR",
+    "kegg_KEGG_OXIDATIVE_PHOSPHORYLATION",
+    "kegg_KEGG_GLUTATHIONE_METABOLISM",
+    "kegg_KEGG_CELL_CYCLE",
+    "kegg_KEGG_DNA_REPLICATION",
+    "kegg_KEGG_MAPK_SIGNALING_PATHWAY",
+    "kegg_KEGG_METABOLISM_OF_XENOBIOTICS_BY_CYTOCHROME_P450",
+    "kegg_KEGG_RIBOSOME"
+  ],
+  "same_frozen_split_per_seed": true,
+  "compound_level_bootstrap": true,
+  "leave_one_out_definition": "full model minus model with exactly one pathway_transfer column removed",
+  "shuffle_negative_control": true,
+  "primary_role": "test",
+  "experimental_role": "descriptive_only",
+  "outputs": [
+    "pathway_leave_one_out.csv",
+    "pathway_interactions.csv",
+    "pathway_shuffle_control.csv",
+    "pathway_incremental_contribution.png",
+    "pathway_incremental_delta_r2.png",
+    "pathway_incremental_delta_rmse.png"
+  ]
+}

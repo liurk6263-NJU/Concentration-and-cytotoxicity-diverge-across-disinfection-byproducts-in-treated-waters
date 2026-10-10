@@ -1,0 +1,15 @@
+card,feature,time_h,status,note,order,compound_name,canonical_smiles,label,plotted_plc50,prediction_sd,n_seeds,source_id,source_note,observed_plc50,predicted_plc50
+1,Ketone groups,72,Predicted,ET-S3 10-seed mean,1,2-Butanone,CCC(C)=O,1 ketone,3.3615771162806225,0.2929659594546102,10.0,cf_ketone_1,controlled_carbocycle_et_s3_prediction_summary.csv,,3.3615771162806225
+1,Ketone groups,72,Predicted,ET-S3 10-seed mean,2,"2,3-Butanedione",CC(=O)C(C)=O,2 ketones,3.594841663056813,0.2504252505089018,10.0,cf_ketone_2,controlled_carbocycle_et_s3_prediction_summary.csv,,3.594841663056813
+2,Aliphatic carbocycles,72,Predicted,ET-S3 10-seed mean,1,Tetralin,c1ccc2c(c1)CCCC2,1 aliphatic ring,3.730542868328918,0.1352209487141785,10.0,cf_ring_1,controlled_carbocycle_et_s3_prediction_summary.csv,,3.730542868328918
+2,Aliphatic carbocycles,72,Predicted,ET-S3 10-seed mean,2,"1,2,3,4,5,6,7,8-Octahydroanthracene",c1c2c(cc3c1CCCC3)CCCC2,2 aliphatic rings,3.836864494010726,0.1927094399078693,10.0,cf_ring_2,controlled_carbocycle_et_s3_prediction_summary.csv,,3.836864494010726
+3,Non-aromatic halogens,72,Observed,,1,"1,4-Naphthoquinone",O=C1C=CC(=O)c2ccccc21,0 non-aromatic Br,5.9666,,,10.1016/j.watres.2022.118421,observed pLC50 from controlled structure series,5.9666,
+3,Non-aromatic halogens,72,Observed,,2,"2-Bromo-1,4-naphthoquinone",O=C1C=C(Br)C(=O)c2ccccc21,1 non-aromatic Br,5.2055,,,10.1016/j.watres.2022.118421,observed pLC50 from controlled structure series,5.2055,
+3,Non-aromatic halogens,72,Observed,,3,"2,3-Dibromo-1,4-naphthoquinone",O=C1C(Br)=C(Br)C(=O)c2ccccc21,2 non-aromatic Br,5.3696,,,10.1016/j.watres.2022.118421,observed pLC50 from controlled structure series,5.3696,
+4,Non-carboxylic carbonyl O,72,Predicted,ET-S3 10-seed mean,1,Benzaldehyde,O=Cc1ccccc1,1 carbonyl O,2.841674804832725,0.1269506938425446,10.0,cf_noncarboxylic_co_1,controlled_carbocycle_et_s3_prediction_summary.csv,,2.841674804832725
+4,Non-carboxylic carbonyl O,72,Predicted,ET-S3 10-seed mean,2,Terephthaldehyde,O=Cc1ccc(C=O)cc1,2 carbonyl O,3.3671858282610625,0.077381777662829,10.0,cf_noncarboxylic_co_2,controlled_carbocycle_et_s3_prediction_summary.csv,,3.3671858282610625
+5,Alkyl halides,72,Observed,,1,Chloroacetone,CC(=O)CCl,1 alkyl Cl,5.3665,,,10.1016/j.watres.2024.121866,observed pLC50 from controlled structure series,5.3665,
+5,Alkyl halides,72,Observed,,2,"1,3-Dichloroacetone",O=C(CCl)CCl,2 alkyl Cl,6.0,,,10.1016/j.watres.2024.121866,observed pLC50 from controlled structure series,6.0,
+6,Halogen atom fraction,72,Observed,,1,8-chloro-7-hydroxycoumarin,O=c1ccc2ccc(O)c(Cl)c2o1,Fraction 0.077,3.2097,,,10.1021/acs.est.3c09823,observed pLC50 from controlled structure series,3.2097,
+6,Halogen atom fraction,72,Observed,,2,"3,8-dichloro-7-hydroxycoumarin",O=c1oc2c(Cl)c(O)ccc2cc1Cl,Fraction 0.143,3.3696,,,10.1021/acs.est.3c09823,observed pLC50 from controlled structure series,3.3696,
+6,Halogen atom fraction,72,Observed,,3,"3,6,8-trichloro-7-hydroxycoumarin",O=c1oc2c(Cl)c(O)c(Cl)cc2cc1Cl,Fraction 0.200,3.58,,,10.1021/acs.est.3c09823,observed pLC50 from controlled structure series,3.58,
