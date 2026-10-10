@@ -1,0 +1,27 @@
+{
+  "tanimoto_minimum": 0.333,
+  "Figure5a": {
+    "source_flag": "in_excel",
+    "n_in_excel_1": 17,
+    "n_in_excel_0": 83,
+    "ordering": [
+      "pLC50_mean descending",
+      "DBP_ID ascending"
+    ]
+  },
+  "Figure5b": {
+    "n": 100,
+    "ordering": [
+      "pLC50_mean descending",
+      "query_id ascending"
+    ]
+  },
+  "reference_pLC50": 1.9696,
+  "reference_scope": "Complete EPA-regulated DBP prediction set",
+  "Figure5c_source_flag": "canonical SMILES match to the 716-entry confirmed catalogue",
+  "Figure5c_category_counts": {
+    "Standard-confirmed DBPs": 462,
+    "Research-reported DBPs": 2333,
+    "DBPs-like": 1120
+  }
+}

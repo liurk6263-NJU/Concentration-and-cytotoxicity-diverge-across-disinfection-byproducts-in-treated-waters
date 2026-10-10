@@ -1,0 +1,10 @@
+{
+  "tanimoto_cutoff": 0.333,
+  "development_sd_median_exact": 0.1649446199083014,
+  "development_sd_cutoff_used": 0.164945,
+  "development_sd_q75": 0.23319295933205522,
+  "expected_mae_cutoff": 0.5,
+  "minimum_development_rows_per_error_cell": 10,
+  "n_dbp": 2795,
+  "n_labeled_oos": 369
+}

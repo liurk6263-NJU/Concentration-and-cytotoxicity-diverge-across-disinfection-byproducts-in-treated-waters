@@ -1,0 +1,4 @@
+rule,n_total,n_accepted,coverage_fraction,n_pLC50_ge_4,n_pLC50_ge_4.5
+core_T_ge_0.5_and_SD_le_0.164945,2795,374,0.13381037567084078,64,26
+composite_T_ge_0.333_and_SD_le_0.164945,2795,1206,0.43148479427549197,141,47
+expected_MAE_le_0.50_with_T_ge_0.333,2795,1253,0.4483005366726297,154,48
