@@ -1,0 +1,71 @@
+{
+  "run_id": "formal_fixedbest10_leave_identical_compound_out_20260824",
+  "formal_weight_grid": [
+    0.0,
+    0.05,
+    0.1,
+    0.15,
+    0.2,
+    0.25,
+    0.3,
+    0.35,
+    0.4,
+    0.5,
+    0.6,
+    0.8,
+    1.0
+  ],
+  "segment_mode": "global",
+  "segment_min_rows": 4,
+  "fixed_candidate": {
+    "w_current": 0.25,
+    "w_atom": 0.5,
+    "w_shrink": 0.25,
+    "topk": 20,
+    "power": 2.0,
+    "alpha": -0.8
+  },
+  "input_hashes": {
+    "cho_workbook": "f846e9aecf87dc6cb66565f921976fd04c2098ef561bd1ee903785ce6bef7658",
+    "nci_source_rows": "b050993845e23797545163b5c8d35a665e2fd1c51d34a45f0755b486321c4858"
+  },
+  "runtime_prediction_inputs": "current_run_memory_only",
+  "random_candidate_selection": "outer_fold_other_folds_only",
+  "random_candidate_calibration": "outer_fold_other_folds_only",
+  "random_component_prediction": "outer_train_full_fit_predictions_and_outer_valid_fit_only",
+  "random_cv_weight_selection": "other_folds_only",
+  "holdout_weight_selection": "train_role_only",
+  "holdout_descriptor_correction_excludes_same_canonical": true,
+  "fixed_seeds": [
+    20260021,
+    20260106,
+    20260290,
+    20260307,
+    20260605,
+    20260730,
+    20260738,
+    20260755,
+    20260998,
+    20262000
+  ],
+  "run_mode": "formal_ten_seed",
+  "preflight_only": false,
+  "descriptor_knn_params": {
+    "topk": 5,
+    "power": 2.0,
+    "weight": -0.1
+  },
+  "component_ids": [
+    "extratrees_400_domain_rdkit_tt_f70_l2_teacher_topk_resid65_ens100_huber_desc_time48_domain_only_a90_k1_delta00_pure_no_counterpart_pair",
+    "extratrees_700_domain_rdkit_tt_f65_l1_atom_pair_a30_k3_p2_time48_rdk_a50_k3_p4_time72_rdk_a25_k1",
+    "extratrees_400_domain_rdkit_tt_f70_l2_teacher_topk_resid65_ens100_huber_desc_time48_domain_only_a90_k1_delta00_pure_no_counterpart_pair__calnone_shrink035"
+  ],
+  "component_prediction_source": "current_run_retrained_from_frozen_data_contract",
+  "leave_identical_compound_out": true,
+  "leave_identical_scope": "For each CHO target structure, all NCI rows with the same canonical SMILES are excluded from the direct top-k transfer and source-teacher models.",
+  "leakage_hard_failure_count": 0,
+  "row_counts": {
+    "random_oof": 2910,
+    "holdout": 3690
+  }
+}

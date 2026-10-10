@@ -1,0 +1,487 @@
+row_order,row_label,column_order,column_id,column_label,column_group,column_group_detail,raw_value,value
+1,Halophenols / phenols,1,Glycolysis / TCA,Glycolysis / TCA,Metabolism,kegg_KEGG_CITRATE_CYCLE_TCA_CYCLE,0.0170590844542002,0.0091353681712414998
+1,Halophenols / phenols,2,OxPhos,OxPhos,Metabolism,kegg_KEGG_OXIDATIVE_PHOSPHORYLATION,0.0174070268624693,0.0147972916299934
+1,Halophenols / phenols,3,Lipid metabolism,Lipid metabolism,Metabolism,kegg_KEGG_GLYCEROLIPID_METABOLISM,0.019867915046279699,0.0062214647084067997
+1,Halophenols / phenols,4,Amino acid metabolism,Amino acid metabolism,Metabolism,kegg_KEGG_ALANINE_ASPARTATE_AND_GLUTAMATE_METABOLISM,0.017172073308951,0.011755197940922
+1,Halophenols / phenols,5,Nucleotide metabolism,Nucleotide metabolism,Metabolism,kegg_KEGG_PURINE_METABOLISM,0.017269247822272401,0.010231869087321901
+1,Halophenols / phenols,6,Glycan metabolism,Glycan metabolism,Metabolism,kegg_KEGG_N_GLYCAN_BIOSYNTHESIS,0.019542030456899701,0.01127881652864
+1,Halophenols / phenols,7,Glutathione metabolism,Glutathione metabolism,Metabolism,kegg_KEGG_GLUTATHIONE_METABOLISM,0.016535974749262598,0.011632952286618
+1,Halophenols / phenols,8,Xenobiotic P450,Xenobiotic P450,Metabolism,kegg_KEGG_METABOLISM_OF_XENOBIOTICS_BY_CYTOCHROME_P450,0.0121045773499603,0.0073208308096866003
+1,Halophenols / phenols,9,DNA replication,DNA replication,Genetic information,kegg_KEGG_DNA_REPLICATION,0.012472757589905001,0.0109365865264785
+1,Halophenols / phenols,10,Base excision repair,Base excision repair,Genetic information,kegg_KEGG_BASE_EXCISION_REPAIR,0.013313336185425699,0.0089056105576127004
+1,Halophenols / phenols,11,Nucleotide excision repair,Nucleotide excision repair,Genetic information,kegg_KEGG_NUCLEOTIDE_EXCISION_REPAIR,0.0131577412081393,0.0096797536338868
+1,Halophenols / phenols,12,Mismatch repair,Mismatch repair,Genetic information,kegg_KEGG_MISMATCH_REPAIR,0.0127308049126286,0.011064812604402801
+1,Halophenols / phenols,13,Homologous recombination,Homologous recombination,Genetic information,kegg_KEGG_HOMOLOGOUS_RECOMBINATION,0.012548094295305999,0.010018803730861101
+1,Halophenols / phenols,14,Proteasome,Proteasome,Genetic information,kegg_KEGG_PROTEASOME,0.0093826870364185008,0.0055340137938888001
+1,Halophenols / phenols,15,MAPK signaling,MAPK signaling,Environmental signaling,kegg_KEGG_MAPK_SIGNALING_PATHWAY,0.019779009450171699,0.0075400263277452997
+1,Halophenols / phenols,16,Calcium signaling,Calcium signaling,Environmental signaling,kegg_KEGG_CALCIUM_SIGNALING_PATHWAY,0.028978510863574999,0.018378052459706799
+1,Halophenols / phenols,17,AhR / PXR / PPAR,AhR / PXR / PPAR,Environmental signaling,kegg_KEGG_PPAR_SIGNALING_PATHWAY,0.0241225144117025,0.0117528297802351
+1,Halophenols / phenols,18,Cytokine-receptor,Cytokine-receptor,Environmental signaling,kegg_KEGG_CYTOKINE_CYTOKINE_RECEPTOR_INTERACTION,0.028434788723044901,0.014615188798399599
+1,Halophenols / phenols,19,Cell cycle,Cell cycle,Cellular response,kegg_KEGG_CELL_CYCLE,0.0126981719322284,0.0069890926274708996
+1,Halophenols / phenols,20,Apoptosis,Apoptosis,Cellular response,kegg_KEGG_APOPTOSIS,0.018742701517259,0.0079166116798266
+1,Halophenols / phenols,21,Autophagy,Autophagy,Cellular response,kegg_KEGG_REGULATION_OF_AUTOPHAGY,0.016803428629922599,0.0097287277449546999
+1,Halophenols / phenols,22,Nrf2 oxidative stress,Nrf2 oxidative stress,Cellular response,kegg_KEGG_GLUTATHIONE_METABOLISM,0.016535974749262598,0.011632952286618
+1,Halophenols / phenols,23,p53 signaling,p53 signaling,Organismal / disease,kegg_KEGG_P53_SIGNALING_PATHWAY,0.014538572260076099,0.0060070269731264002
+1,Halophenols / phenols,24,NF-kB signaling,NF-kB signaling,Organismal / disease,kegg_KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY,0.0154699840977268,0.0059675292400324003
+1,Halophenols / phenols,25,Neuroactive ligand-receptor,Neuroactive ligand-receptor,Organismal / disease,kegg_KEGG_NEUROACTIVE_LIGAND_RECEPTOR_INTERACTION,0.042612369586112898,0.030236680630876801
+1,Halophenols / phenols,26,Immune signaling,Immune signaling,Organismal / disease,kegg_KEGG_T_CELL_RECEPTOR_SIGNALING_PATHWAY,0.018573735585958099,0.012099364423716501
+1,Halophenols / phenols,27,Cancer pathways,Cancer pathways,Organismal / disease,kegg_KEGG_PATHWAYS_IN_CANCER,0.0168212653119135,0.0043648017165827998
+2,Halobenzoquinones / quinones,1,Glycolysis / TCA,Glycolysis / TCA,Metabolism,kegg_KEGG_CITRATE_CYCLE_TCA_CYCLE,-0.0032588151073568001,-0.011182531390315401
+2,Halobenzoquinones / quinones,2,OxPhos,OxPhos,Metabolism,kegg_KEGG_OXIDATIVE_PHOSPHORYLATION,-0.0067498383981761997,-0.0093595736306520006
+2,Halobenzoquinones / quinones,3,Lipid metabolism,Lipid metabolism,Metabolism,kegg_KEGG_GLYCEROLIPID_METABOLISM,0.0095515224827736004,-0.0040949278550991997
+2,Halobenzoquinones / quinones,4,Amino acid metabolism,Amino acid metabolism,Metabolism,kegg_KEGG_ALANINE_ASPARTATE_AND_GLUTAMATE_METABOLISM,-0.0002608771567415,-0.0056777525247704002
+2,Halobenzoquinones / quinones,5,Nucleotide metabolism,Nucleotide metabolism,Metabolism,kegg_KEGG_PURINE_METABOLISM,-0.0040368208469994003,-0.011074199581949801
+2,Halobenzoquinones / quinones,6,Glycan metabolism,Glycan metabolism,Metabolism,kegg_KEGG_N_GLYCAN_BIOSYNTHESIS,0.0034617536531482002,-0.0048014602751114003
+2,Halobenzoquinones / quinones,7,Glutathione metabolism,Glutathione metabolism,Metabolism,kegg_KEGG_GLUTATHIONE_METABOLISM,-0.0025005893400101,-0.0074036118026545999
+2,Halobenzoquinones / quinones,8,Xenobiotic P450,Xenobiotic P450,Metabolism,kegg_KEGG_METABOLISM_OF_XENOBIOTICS_BY_CYTOCHROME_P450,-0.0040470956138326996,-0.0088308421541063008
+2,Halobenzoquinones / quinones,9,DNA replication,DNA replication,Genetic information,kegg_KEGG_DNA_REPLICATION,-0.0099720307818304994,-0.0115082018452569
+2,Halobenzoquinones / quinones,10,Base excision repair,Base excision repair,Genetic information,kegg_KEGG_BASE_EXCISION_REPAIR,-0.0057066765326928004,-0.010114402160505701
+2,Halobenzoquinones / quinones,11,Nucleotide excision repair,Nucleotide excision repair,Genetic information,kegg_KEGG_NUCLEOTIDE_EXCISION_REPAIR,-0.0062001704914174003,-0.0096781580656698004
+2,Halobenzoquinones / quinones,12,Mismatch repair,Mismatch repair,Genetic information,kegg_KEGG_MISMATCH_REPAIR,-0.0070491687768902004,-0.0087151610851158995
+2,Halobenzoquinones / quinones,13,Homologous recombination,Homologous recombination,Genetic information,kegg_KEGG_HOMOLOGOUS_RECOMBINATION,-0.0068905681441981002,-0.0094198587086429999
+2,Halobenzoquinones / quinones,14,Proteasome,Proteasome,Genetic information,kegg_KEGG_PROTEASOME,-0.0020587035390095001,-0.0059073767815390997
+2,Halobenzoquinones / quinones,15,MAPK signaling,MAPK signaling,Environmental signaling,kegg_KEGG_MAPK_SIGNALING_PATHWAY,0.0054225724489901997,-0.0068164106734360996
+2,Halobenzoquinones / quinones,16,Calcium signaling,Calcium signaling,Environmental signaling,kegg_KEGG_CALCIUM_SIGNALING_PATHWAY,-0.00039674269573459998,-0.010997201099602699
+2,Halobenzoquinones / quinones,17,AhR / PXR / PPAR,AhR / PXR / PPAR,Environmental signaling,kegg_KEGG_PPAR_SIGNALING_PATHWAY,0.0047019754514478996,-0.0076677091800194004
+2,Halobenzoquinones / quinones,18,Cytokine-receptor,Cytokine-receptor,Environmental signaling,kegg_KEGG_CYTOKINE_CYTOKINE_RECEPTOR_INTERACTION,0.012815588016565,-0.0010040119080802
+2,Halobenzoquinones / quinones,19,Cell cycle,Cell cycle,Cellular response,kegg_KEGG_CELL_CYCLE,-0.0023745805496629998,-0.0080836598544204007
+2,Halobenzoquinones / quinones,20,Apoptosis,Apoptosis,Cellular response,kegg_KEGG_APOPTOSIS,0.0069697425185950004,-0.0038563473188372999
+2,Halobenzoquinones / quinones,21,Autophagy,Autophagy,Cellular response,kegg_KEGG_REGULATION_OF_AUTOPHAGY,0.00048772046557380003,-0.0065869804193939997
+2,Halobenzoquinones / quinones,22,Nrf2 oxidative stress,Nrf2 oxidative stress,Cellular response,kegg_KEGG_GLUTATHIONE_METABOLISM,-0.0025005893400101,-0.0074036118026545999
+2,Halobenzoquinones / quinones,23,p53 signaling,p53 signaling,Organismal / disease,kegg_KEGG_P53_SIGNALING_PATHWAY,0.0039951893365805001,-0.0045363559503691
+2,Halobenzoquinones / quinones,24,NF-kB signaling,NF-kB signaling,Organismal / disease,kegg_KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY,0.0041333792223236,-0.0053690756353706997
+2,Halobenzoquinones / quinones,25,Neuroactive ligand-receptor,Neuroactive ligand-receptor,Organismal / disease,kegg_KEGG_NEUROACTIVE_LIGAND_RECEPTOR_INTERACTION,-0.0026279079308335002,-0.0150035968860695
+2,Halobenzoquinones / quinones,26,Immune signaling,Immune signaling,Organismal / disease,kegg_KEGG_T_CELL_RECEPTOR_SIGNALING_PATHWAY,0.0011020529520813999,-0.0053723182101601003
+2,Halobenzoquinones / quinones,27,Cancer pathways,Cancer pathways,Organismal / disease,kegg_KEGG_PATHWAYS_IN_CANCER,0.0078468585355083997,-0.0046096050598222003
+3,Halocarboxylic acids / organic acids,1,Glycolysis / TCA,Glycolysis / TCA,Metabolism,kegg_KEGG_CITRATE_CYCLE_TCA_CYCLE,0.033135200573134002,0.0252114842901753
+3,Halocarboxylic acids / organic acids,2,OxPhos,OxPhos,Metabolism,kegg_KEGG_OXIDATIVE_PHOSPHORYLATION,0.031442178760686598,0.0288324435282107
+3,Halocarboxylic acids / organic acids,3,Lipid metabolism,Lipid metabolism,Metabolism,kegg_KEGG_GLYCEROLIPID_METABOLISM,0.032050054767980798,0.018403604430107901
+3,Halocarboxylic acids / organic acids,4,Amino acid metabolism,Amino acid metabolism,Metabolism,kegg_KEGG_ALANINE_ASPARTATE_AND_GLUTAMATE_METABOLISM,0.0290221568287512,0.023605281460722199
+3,Halocarboxylic acids / organic acids,5,Nucleotide metabolism,Nucleotide metabolism,Metabolism,kegg_KEGG_PURINE_METABOLISM,0.0331245234089452,0.0260871446739947
+3,Halocarboxylic acids / organic acids,6,Glycan metabolism,Glycan metabolism,Metabolism,kegg_KEGG_N_GLYCAN_BIOSYNTHESIS,0.029930542152155199,0.021667328223895499
+3,Halocarboxylic acids / organic acids,7,Glutathione metabolism,Glutathione metabolism,Metabolism,kegg_KEGG_GLUTATHIONE_METABOLISM,0.02902936850549,0.024126346042845401
+3,Halocarboxylic acids / organic acids,8,Xenobiotic P450,Xenobiotic P450,Metabolism,kegg_KEGG_METABOLISM_OF_XENOBIOTICS_BY_CYTOCHROME_P450,0.0225193830950727,0.017735636554799001
+3,Halocarboxylic acids / organic acids,9,DNA replication,DNA replication,Genetic information,kegg_KEGG_DNA_REPLICATION,0.0283571412452325,0.026820970181806
+3,Halocarboxylic acids / organic acids,10,Base excision repair,Base excision repair,Genetic information,kegg_KEGG_BASE_EXCISION_REPAIR,0.028463883208447598,0.024056157580634601
+3,Halocarboxylic acids / organic acids,11,Nucleotide excision repair,Nucleotide excision repair,Genetic information,kegg_KEGG_NUCLEOTIDE_EXCISION_REPAIR,0.029413487140386,0.025935499566133599
+3,Halocarboxylic acids / organic acids,12,Mismatch repair,Mismatch repair,Genetic information,kegg_KEGG_MISMATCH_REPAIR,0.028570798788654601,0.026904806480428801
+3,Halocarboxylic acids / organic acids,13,Homologous recombination,Homologous recombination,Genetic information,kegg_KEGG_HOMOLOGOUS_RECOMBINATION,0.027885135629119699,0.025355845064674799
+3,Halocarboxylic acids / organic acids,14,Proteasome,Proteasome,Genetic information,kegg_KEGG_PROTEASOME,0.026077081612410201,0.022228408369880499
+3,Halocarboxylic acids / organic acids,15,MAPK signaling,MAPK signaling,Environmental signaling,kegg_KEGG_MAPK_SIGNALING_PATHWAY,0.031533023348339899,0.019294040225913502
+3,Halocarboxylic acids / organic acids,16,Calcium signaling,Calcium signaling,Environmental signaling,kegg_KEGG_CALCIUM_SIGNALING_PATHWAY,0.034963017150320103,0.0243625587464519
+3,Halocarboxylic acids / organic acids,17,AhR / PXR / PPAR,AhR / PXR / PPAR,Environmental signaling,kegg_KEGG_PPAR_SIGNALING_PATHWAY,0.033735793569837497,0.021366108938370099
+3,Halocarboxylic acids / organic acids,18,Cytokine-receptor,Cytokine-receptor,Environmental signaling,kegg_KEGG_CYTOKINE_CYTOKINE_RECEPTOR_INTERACTION,0.0295351132596674,0.015715513335022101
+3,Halocarboxylic acids / organic acids,19,Cell cycle,Cell cycle,Cellular response,kegg_KEGG_CELL_CYCLE,0.0295826306651693,0.023873551360411902
+3,Halocarboxylic acids / organic acids,20,Apoptosis,Apoptosis,Cellular response,kegg_KEGG_APOPTOSIS,0.029782959280429601,0.018956869442997199
+3,Halocarboxylic acids / organic acids,21,Autophagy,Autophagy,Cellular response,kegg_KEGG_REGULATION_OF_AUTOPHAGY,0.032273550151688403,0.025198849266720499
+3,Halocarboxylic acids / organic acids,22,Nrf2 oxidative stress,Nrf2 oxidative stress,Cellular response,kegg_KEGG_GLUTATHIONE_METABOLISM,0.02902936850549,0.024126346042845401
+3,Halocarboxylic acids / organic acids,23,p53 signaling,p53 signaling,Organismal / disease,kegg_KEGG_P53_SIGNALING_PATHWAY,0.028679278042087201,0.020147732755137499
+3,Halocarboxylic acids / organic acids,24,NF-kB signaling,NF-kB signaling,Organismal / disease,kegg_KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY,0.0289909463161192,0.019488491458424798
+3,Halocarboxylic acids / organic acids,25,Neuroactive ligand-receptor,Neuroactive ligand-receptor,Organismal / disease,kegg_KEGG_NEUROACTIVE_LIGAND_RECEPTOR_INTERACTION,0.033319299382832797,0.020943610427596699
+3,Halocarboxylic acids / organic acids,26,Immune signaling,Immune signaling,Organismal / disease,kegg_KEGG_T_CELL_RECEPTOR_SIGNALING_PATHWAY,0.028113612401635301,0.021639241239393699
+3,Halocarboxylic acids / organic acids,27,Cancer pathways,Cancer pathways,Organismal / disease,kegg_KEGG_PATHWAYS_IN_CANCER,0.0307061887776271,0.018249725182296402
+4,Haloacetamides / amides,1,Glycolysis / TCA,Glycolysis / TCA,Metabolism,kegg_KEGG_CITRATE_CYCLE_TCA_CYCLE,0.025228533370290299,0.0173048170873316
+4,Haloacetamides / amides,2,OxPhos,OxPhos,Metabolism,kegg_KEGG_OXIDATIVE_PHOSPHORYLATION,0.0210702607054465,0.018460525472970599
+4,Haloacetamides / amides,3,Lipid metabolism,Lipid metabolism,Metabolism,kegg_KEGG_GLYCEROLIPID_METABOLISM,0.030168166945781099,0.016521716607908198
+4,Haloacetamides / amides,4,Amino acid metabolism,Amino acid metabolism,Metabolism,kegg_KEGG_ALANINE_ASPARTATE_AND_GLUTAMATE_METABOLISM,0.021974790118998298,0.016557914750969301
+4,Haloacetamides / amides,5,Nucleotide metabolism,Nucleotide metabolism,Metabolism,kegg_KEGG_PURINE_METABOLISM,0.025015435466509101,0.017978056731558601
+4,Haloacetamides / amides,6,Glycan metabolism,Glycan metabolism,Metabolism,kegg_KEGG_N_GLYCAN_BIOSYNTHESIS,0.025284286299951199,0.017021072371691499
+4,Haloacetamides / amides,7,Glutathione metabolism,Glutathione metabolism,Metabolism,kegg_KEGG_GLUTATHIONE_METABOLISM,0.023730356209477901,0.018827333746833302
+4,Haloacetamides / amides,8,Xenobiotic P450,Xenobiotic P450,Metabolism,kegg_KEGG_METABOLISM_OF_XENOBIOTICS_BY_CYTOCHROME_P450,0.020248667232934999,0.0154649206926613
+4,Haloacetamides / amides,9,DNA replication,DNA replication,Genetic information,kegg_KEGG_DNA_REPLICATION,0.017982063842677601,0.016445892779251101
+4,Haloacetamides / amides,10,Base excision repair,Base excision repair,Genetic information,kegg_KEGG_BASE_EXCISION_REPAIR,0.020599063041258501,0.0161913374134455
+4,Haloacetamides / amides,11,Nucleotide excision repair,Nucleotide excision repair,Genetic information,kegg_KEGG_NUCLEOTIDE_EXCISION_REPAIR,0.020904861169804199,0.017426873595551701
+4,Haloacetamides / amides,12,Mismatch repair,Mismatch repair,Genetic information,kegg_KEGG_MISMATCH_REPAIR,0.019151258576343099,0.017485266268117299
+4,Haloacetamides / amides,13,Homologous recombination,Homologous recombination,Genetic information,kegg_KEGG_HOMOLOGOUS_RECOMBINATION,0.019174048657176,0.0166447580927311
+4,Haloacetamides / amides,14,Proteasome,Proteasome,Genetic information,kegg_KEGG_PROTEASOME,0.019307500234829099,0.015458826992299401
+4,Haloacetamides / amides,15,MAPK signaling,MAPK signaling,Environmental signaling,kegg_KEGG_MAPK_SIGNALING_PATHWAY,0.0289944228898984,0.016755439767472
+4,Haloacetamides / amides,16,Calcium signaling,Calcium signaling,Environmental signaling,kegg_KEGG_CALCIUM_SIGNALING_PATHWAY,0.030034936481374001,0.019434478077505798
+4,Haloacetamides / amides,17,AhR / PXR / PPAR,AhR / PXR / PPAR,Environmental signaling,kegg_KEGG_PPAR_SIGNALING_PATHWAY,0.0298197705218959,0.017450085890428499
+4,Haloacetamides / amides,18,Cytokine-receptor,Cytokine-receptor,Environmental signaling,kegg_KEGG_CYTOKINE_CYTOKINE_RECEPTOR_INTERACTION,0.031262265970816397,0.017442666046171101
+4,Haloacetamides / amides,19,Cell cycle,Cell cycle,Cellular response,kegg_KEGG_CELL_CYCLE,0.022303676818793999,0.016594597514036601
+4,Haloacetamides / amides,20,Apoptosis,Apoptosis,Cellular response,kegg_KEGG_APOPTOSIS,0.026909943587010699,0.016083853749578301
+4,Haloacetamides / amides,21,Autophagy,Autophagy,Cellular response,kegg_KEGG_REGULATION_OF_AUTOPHAGY,0.026079679275012198,0.019004978390044301
+4,Haloacetamides / amides,22,Nrf2 oxidative stress,Nrf2 oxidative stress,Cellular response,kegg_KEGG_GLUTATHIONE_METABOLISM,0.023730356209477901,0.018827333746833302
+4,Haloacetamides / amides,23,p53 signaling,p53 signaling,Organismal / disease,kegg_KEGG_P53_SIGNALING_PATHWAY,0.024817499407987699,0.016285954121038001
+4,Haloacetamides / amides,24,NF-kB signaling,NF-kB signaling,Organismal / disease,kegg_KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY,0.0241815761838622,0.014679121326167799
+4,Haloacetamides / amides,25,Neuroactive ligand-receptor,Neuroactive ligand-receptor,Organismal / disease,kegg_KEGG_NEUROACTIVE_LIGAND_RECEPTOR_INTERACTION,0.029400916014636801,0.0170252270594007
+4,Haloacetamides / amides,26,Immune signaling,Immune signaling,Organismal / disease,kegg_KEGG_T_CELL_RECEPTOR_SIGNALING_PATHWAY,0.022316220386227801,0.015841849223986199
+4,Haloacetamides / amides,27,Cancer pathways,Cancer pathways,Organismal / disease,kegg_KEGG_PATHWAYS_IN_CANCER,0.029300622749601601,0.016844159154270899
+5,Haloaromatics / heteroaromatics,1,Glycolysis / TCA,Glycolysis / TCA,Metabolism,kegg_KEGG_CITRATE_CYCLE_TCA_CYCLE,0.0080164099841326004,9.2693701173995197e-05
+5,Haloaromatics / heteroaromatics,2,OxPhos,OxPhos,Metabolism,kegg_KEGG_OXIDATIVE_PHOSPHORYLATION,0.0046441138565212004,0.0020343786240453001
+5,Haloaromatics / heteroaromatics,3,Lipid metabolism,Lipid metabolism,Metabolism,kegg_KEGG_GLYCEROLIPID_METABOLISM,0.018025308362709699,0.0043788580248368004
+5,Haloaromatics / heteroaromatics,4,Amino acid metabolism,Amino acid metabolism,Metabolism,kegg_KEGG_ALANINE_ASPARTATE_AND_GLUTAMATE_METABOLISM,0.0093351617482337994,0.0039182863802047999
+5,Haloaromatics / heteroaromatics,5,Nucleotide metabolism,Nucleotide metabolism,Metabolism,kegg_KEGG_PURINE_METABOLISM,0.0073578784671881996,0.00032049973223770002
+5,Haloaromatics / heteroaromatics,6,Glycan metabolism,Glycan metabolism,Metabolism,kegg_KEGG_N_GLYCAN_BIOSYNTHESIS,0.0137390510730302,0.0054758371447705002
+5,Haloaromatics / heteroaromatics,7,Glutathione metabolism,Glutathione metabolism,Metabolism,kegg_KEGG_GLUTATHIONE_METABOLISM,0.0077680444244625996,0.002865021961818
+5,Haloaromatics / heteroaromatics,8,Xenobiotic P450,Xenobiotic P450,Metabolism,kegg_KEGG_METABOLISM_OF_XENOBIOTICS_BY_CYTOCHROME_P450,0.0039084883216051001,-0.00087525821866850004
+5,Haloaromatics / heteroaromatics,9,DNA replication,DNA replication,Genetic information,kegg_KEGG_DNA_REPLICATION,-0.00031874812533960002,-0.001854919188766
+5,Haloaromatics / heteroaromatics,10,Base excision repair,Base excision repair,Genetic information,kegg_KEGG_BASE_EXCISION_REPAIR,0.0034230042911135,-0.00098472133669939995
+5,Haloaromatics / heteroaromatics,11,Nucleotide excision repair,Nucleotide excision repair,Genetic information,kegg_KEGG_NUCLEOTIDE_EXCISION_REPAIR,0.0030346076099478998,-0.0004433799643045
+5,Haloaromatics / heteroaromatics,12,Mismatch repair,Mismatch repair,Genetic information,kegg_KEGG_MISMATCH_REPAIR,0.0017259195729390001,5.9927264713222246e-05
+5,Haloaromatics / heteroaromatics,13,Homologous recombination,Homologous recombination,Genetic information,kegg_KEGG_HOMOLOGOUS_RECOMBINATION,0.0016670165169930999,-0.00086227404745170002
+5,Haloaromatics / heteroaromatics,14,Proteasome,Proteasome,Genetic information,kegg_KEGG_PROTEASOME,0.0022903643390552002,-0.0015583089034743999
+5,Haloaromatics / heteroaromatics,15,MAPK signaling,MAPK signaling,Environmental signaling,kegg_KEGG_MAPK_SIGNALING_PATHWAY,0.015905041574080001,0.0036660584516536002
+5,Haloaromatics / heteroaromatics,16,Calcium signaling,Calcium signaling,Environmental signaling,kegg_KEGG_CALCIUM_SIGNALING_PATHWAY,0.0188756948215478,0.0082752364176795993
+5,Haloaromatics / heteroaromatics,17,AhR / PXR / PPAR,AhR / PXR / PPAR,Environmental signaling,kegg_KEGG_PPAR_SIGNALING_PATHWAY,0.0169992709502042,0.0046295863187367997
+5,Haloaromatics / heteroaromatics,18,Cytokine-receptor,Cytokine-receptor,Environmental signaling,kegg_KEGG_CYTOKINE_CYTOKINE_RECEPTOR_INTERACTION,0.028015074677319202,0.0141954747526739
+5,Haloaromatics / heteroaromatics,19,Cell cycle,Cell cycle,Cellular response,kegg_KEGG_CELL_CYCLE,0.0055242706873696,-0.00018480861738779999
+5,Haloaromatics / heteroaromatics,20,Apoptosis,Apoptosis,Cellular response,kegg_KEGG_APOPTOSIS,0.0161201286751167,0.0052940388376842996
+5,Haloaromatics / heteroaromatics,21,Autophagy,Autophagy,Cellular response,kegg_KEGG_REGULATION_OF_AUTOPHAGY,0.0104179693706883,0.0033432684857204
+5,Haloaromatics / heteroaromatics,22,Nrf2 oxidative stress,Nrf2 oxidative stress,Cellular response,kegg_KEGG_GLUTATHIONE_METABOLISM,0.0077680444244625996,0.002865021961818
+5,Haloaromatics / heteroaromatics,23,p53 signaling,p53 signaling,Organismal / disease,kegg_KEGG_P53_SIGNALING_PATHWAY,0.012066350604312701,0.0035348053173629998
+5,Haloaromatics / heteroaromatics,24,NF-kB signaling,NF-kB signaling,Organismal / disease,kegg_KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY,0.0106692297736943,0.0011667749159999
+5,Haloaromatics / heteroaromatics,25,Neuroactive ligand-receptor,Neuroactive ligand-receptor,Organismal / disease,kegg_KEGG_NEUROACTIVE_LIGAND_RECEPTOR_INTERACTION,0.026768394007783799,0.014392705052547699
+5,Haloaromatics / heteroaromatics,26,Immune signaling,Immune signaling,Organismal / disease,kegg_KEGG_T_CELL_RECEPTOR_SIGNALING_PATHWAY,0.011552196020141899,0.0050778248579003002
+5,Haloaromatics / heteroaromatics,27,Cancer pathways,Cancer pathways,Organismal / disease,kegg_KEGG_PATHWAYS_IN_CANCER,0.015050501591469499,0.0025940379961387999
+6,Haloacetonitriles / cyanogen halides,1,Glycolysis / TCA,Glycolysis / TCA,Metabolism,kegg_KEGG_CITRATE_CYCLE_TCA_CYCLE,0.0010681357144317,-0.0068555805685269
+6,Haloacetonitriles / cyanogen halides,2,OxPhos,OxPhos,Metabolism,kegg_KEGG_OXIDATIVE_PHOSPHORYLATION,-0.0027349020868417998,-0.0053446373193176003
+6,Haloacetonitriles / cyanogen halides,3,Lipid metabolism,Lipid metabolism,Metabolism,kegg_KEGG_GLYCEROLIPID_METABOLISM,0.018999374417762799,0.0053529240798898996
+6,Haloacetonitriles / cyanogen halides,4,Amino acid metabolism,Amino acid metabolism,Metabolism,kegg_KEGG_ALANINE_ASPARTATE_AND_GLUTAMATE_METABOLISM,0.0068999279898099997,0.0014830526217810001
+6,Haloacetonitriles / cyanogen halides,5,Nucleotide metabolism,Nucleotide metabolism,Metabolism,kegg_KEGG_PURINE_METABOLISM,0.0036904402985677002,-0.0033469384363827002
+6,Haloacetonitriles / cyanogen halides,6,Glycan metabolism,Glycan metabolism,Metabolism,kegg_KEGG_N_GLYCAN_BIOSYNTHESIS,0.0078861501810632006,-0.00037706374719639999
+6,Haloacetonitriles / cyanogen halides,7,Glutathione metabolism,Glutathione metabolism,Metabolism,kegg_KEGG_GLUTATHIONE_METABOLISM,0.0038632375198178999,-0.0010397849428266
+6,Haloacetonitriles / cyanogen halides,8,Xenobiotic P450,Xenobiotic P450,Metabolism,kegg_KEGG_METABOLISM_OF_XENOBIOTICS_BY_CYTOCHROME_P450,-0.00056128466428630001,-0.0053450312045599004
+6,Haloacetonitriles / cyanogen halides,9,DNA replication,DNA replication,Genetic information,kegg_KEGG_DNA_REPLICATION,-0.0041901930431418001,-0.0057263641065681999
+6,Haloacetonitriles / cyanogen halides,10,Base excision repair,Base excision repair,Genetic information,kegg_KEGG_BASE_EXCISION_REPAIR,0.0015945673114768999,-0.002813158316336
+6,Haloacetonitriles / cyanogen halides,11,Nucleotide excision repair,Nucleotide excision repair,Genetic information,kegg_KEGG_NUCLEOTIDE_EXCISION_REPAIR,0.00071964308164789998,-0.0027583444926045
+6,Haloacetonitriles / cyanogen halides,12,Mismatch repair,Mismatch repair,Genetic information,kegg_KEGG_MISMATCH_REPAIR,-0.001775672174631,-0.0034416644828567
+6,Haloacetonitriles / cyanogen halides,13,Homologous recombination,Homologous recombination,Genetic information,kegg_KEGG_HOMOLOGOUS_RECOMBINATION,0.00068854146009079996,-0.0018407491043540001
+6,Haloacetonitriles / cyanogen halides,14,Proteasome,Proteasome,Genetic information,kegg_KEGG_PROTEASOME,0.010232288847809599,0.0063836156052798996
+6,Haloacetonitriles / cyanogen halides,15,MAPK signaling,MAPK signaling,Environmental signaling,kegg_KEGG_MAPK_SIGNALING_PATHWAY,0.012284165530434101,4.5182408007752098e-05
+6,Haloacetonitriles / cyanogen halides,16,Calcium signaling,Calcium signaling,Environmental signaling,kegg_KEGG_CALCIUM_SIGNALING_PATHWAY,-0.0036210430133503,-0.0142215014172184
+6,Haloacetonitriles / cyanogen halides,17,AhR / PXR / PPAR,AhR / PXR / PPAR,Environmental signaling,kegg_KEGG_PPAR_SIGNALING_PATHWAY,0.0090209822747472999,-0.0033487023567200002
+6,Haloacetonitriles / cyanogen halides,18,Cytokine-receptor,Cytokine-receptor,Environmental signaling,kegg_KEGG_CYTOKINE_CYTOKINE_RECEPTOR_INTERACTION,0.014659174672156,0.00083957474751069998
+6,Haloacetonitriles / cyanogen halides,19,Cell cycle,Cell cycle,Cellular response,kegg_KEGG_CELL_CYCLE,0.0067963742189093004,0.0010872949141518999
+6,Haloacetonitriles / cyanogen halides,20,Apoptosis,Apoptosis,Cellular response,kegg_KEGG_APOPTOSIS,0.013604009134934101,0.0027779192975017001
+6,Haloacetonitriles / cyanogen halides,21,Autophagy,Autophagy,Cellular response,kegg_KEGG_REGULATION_OF_AUTOPHAGY,0.0085354631477160998,0.0014607622627481999
+6,Haloacetonitriles / cyanogen halides,22,Nrf2 oxidative stress,Nrf2 oxidative stress,Cellular response,kegg_KEGG_GLUTATHIONE_METABOLISM,0.0038632375198178999,-0.0010397849428266
+6,Haloacetonitriles / cyanogen halides,23,p53 signaling,p53 signaling,Organismal / disease,kegg_KEGG_P53_SIGNALING_PATHWAY,0.012071555373669499,0.0035400100867197999
+6,Haloacetonitriles / cyanogen halides,24,NF-kB signaling,NF-kB signaling,Organismal / disease,kegg_KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY,0.0146574635507814,0.0051550086930870001
+6,Haloacetonitriles / cyanogen halides,25,Neuroactive ligand-receptor,Neuroactive ligand-receptor,Organismal / disease,kegg_KEGG_NEUROACTIVE_LIGAND_RECEPTOR_INTERACTION,-0.022385840188998099,-0.034761529144234103
+6,Haloacetonitriles / cyanogen halides,26,Immune signaling,Immune signaling,Organismal / disease,kegg_KEGG_T_CELL_RECEPTOR_SIGNALING_PATHWAY,0.0038556083317319001,-0.0026187628305096001
+6,Haloacetonitriles / cyanogen halides,27,Cancer pathways,Cancer pathways,Organismal / disease,kegg_KEGG_PATHWAYS_IN_CANCER,0.018505544107358399,0.0060490805120276998
+7,Halonitrophenols / nitrophenols,1,Glycolysis / TCA,Glycolysis / TCA,Metabolism,kegg_KEGG_CITRATE_CYCLE_TCA_CYCLE,0.015140700258595499,0.0072169839756368002
+7,Halonitrophenols / nitrophenols,2,OxPhos,OxPhos,Metabolism,kegg_KEGG_OXIDATIVE_PHOSPHORYLATION,0.0125019751677495,0.0098922399352736005
+7,Halonitrophenols / nitrophenols,3,Lipid metabolism,Lipid metabolism,Metabolism,kegg_KEGG_GLYCEROLIPID_METABOLISM,0.0169873003707268,0.0033408500328539
+7,Halonitrophenols / nitrophenols,4,Amino acid metabolism,Amino acid metabolism,Metabolism,kegg_KEGG_ALANINE_ASPARTATE_AND_GLUTAMATE_METABOLISM,0.0133485294653845,0.0079316540973555002
+7,Halonitrophenols / nitrophenols,5,Nucleotide metabolism,Nucleotide metabolism,Metabolism,kegg_KEGG_PURINE_METABOLISM,0.0142549101775034,0.0072175314425528998
+7,Halonitrophenols / nitrophenols,6,Glycan metabolism,Glycan metabolism,Metabolism,kegg_KEGG_N_GLYCAN_BIOSYNTHESIS,0.016647626848208998,0.0083844129199492998
+7,Halonitrophenols / nitrophenols,7,Glutathione metabolism,Glutathione metabolism,Metabolism,kegg_KEGG_GLUTATHIONE_METABOLISM,0.0115854943726292,0.0066824719099846004
+7,Halonitrophenols / nitrophenols,8,Xenobiotic P450,Xenobiotic P450,Metabolism,kegg_KEGG_METABOLISM_OF_XENOBIOTICS_BY_CYTOCHROME_P450,0.0072699104700382003,0.0024861639297645002
+7,Halonitrophenols / nitrophenols,9,DNA replication,DNA replication,Genetic information,kegg_KEGG_DNA_REPLICATION,0.0124935633366688,0.0109573922732423
+7,Halonitrophenols / nitrophenols,10,Base excision repair,Base excision repair,Genetic information,kegg_KEGG_BASE_EXCISION_REPAIR,0.012104631068726199,0.0076969054409131996
+7,Halonitrophenols / nitrophenols,11,Nucleotide excision repair,Nucleotide excision repair,Genetic information,kegg_KEGG_NUCLEOTIDE_EXCISION_REPAIR,0.010649349944227801,0.0071713623699753998
+7,Halonitrophenols / nitrophenols,12,Mismatch repair,Mismatch repair,Genetic information,kegg_KEGG_MISMATCH_REPAIR,0.0102923381712023,0.0086263458629764998
+7,Halonitrophenols / nitrophenols,13,Homologous recombination,Homologous recombination,Genetic information,kegg_KEGG_HOMOLOGOUS_RECOMBINATION,0.010618525684843999,0.0080892351203991006
+7,Halonitrophenols / nitrophenols,14,Proteasome,Proteasome,Genetic information,kegg_KEGG_PROTEASOME,0.0078838803997312995,0.0040352071572015997
+7,Halonitrophenols / nitrophenols,15,MAPK signaling,MAPK signaling,Environmental signaling,kegg_KEGG_MAPK_SIGNALING_PATHWAY,0.0166692100490855,0.0044302269266590999
+7,Halonitrophenols / nitrophenols,16,Calcium signaling,Calcium signaling,Environmental signaling,kegg_KEGG_CALCIUM_SIGNALING_PATHWAY,0.024017934633389301,0.013417476229521099
+7,Halonitrophenols / nitrophenols,17,AhR / PXR / PPAR,AhR / PXR / PPAR,Environmental signaling,kegg_KEGG_PPAR_SIGNALING_PATHWAY,0.019812505763028801,0.0074428211315614003
+7,Halonitrophenols / nitrophenols,18,Cytokine-receptor,Cytokine-receptor,Environmental signaling,kegg_KEGG_CYTOKINE_CYTOKINE_RECEPTOR_INTERACTION,0.022737826649332101,0.0089182267246867997
+7,Halonitrophenols / nitrophenols,19,Cell cycle,Cell cycle,Cellular response,kegg_KEGG_CELL_CYCLE,0.0107556934507043,0.0050466141459469
+7,Halonitrophenols / nitrophenols,20,Apoptosis,Apoptosis,Cellular response,kegg_KEGG_APOPTOSIS,0.0149826941443489,0.0041566043069165004
+7,Halonitrophenols / nitrophenols,21,Autophagy,Autophagy,Cellular response,kegg_KEGG_REGULATION_OF_AUTOPHAGY,0.0119720523947892,0.0048973515098213001
+7,Halonitrophenols / nitrophenols,22,Nrf2 oxidative stress,Nrf2 oxidative stress,Cellular response,kegg_KEGG_GLUTATHIONE_METABOLISM,0.0115854943726292,0.0066824719099846004
+7,Halonitrophenols / nitrophenols,23,p53 signaling,p53 signaling,Organismal / disease,kegg_KEGG_P53_SIGNALING_PATHWAY,0.010931372264582099,0.0023998269776323998
+7,Halonitrophenols / nitrophenols,24,NF-kB signaling,NF-kB signaling,Organismal / disease,kegg_KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY,0.012911637973222201,0.0034091831155278001
+7,Halonitrophenols / nitrophenols,25,Neuroactive ligand-receptor,Neuroactive ligand-receptor,Organismal / disease,kegg_KEGG_NEUROACTIVE_LIGAND_RECEPTOR_INTERACTION,0.041676391951865198,0.0293007029966291
+7,Halonitrophenols / nitrophenols,26,Immune signaling,Immune signaling,Organismal / disease,kegg_KEGG_T_CELL_RECEPTOR_SIGNALING_PATHWAY,0.0152883250116282,0.0088139538493866004
+7,Halonitrophenols / nitrophenols,27,Cancer pathways,Cancer pathways,Organismal / disease,kegg_KEGG_PATHWAYS_IN_CANCER,0.013015076586795699,0.00055861299146500005
+8,THMs / haloalkanes,1,Glycolysis / TCA,Glycolysis / TCA,Metabolism,kegg_KEGG_CITRATE_CYCLE_TCA_CYCLE,0.034673561775702799,0.0267498454927441
+8,THMs / haloalkanes,2,OxPhos,OxPhos,Metabolism,kegg_KEGG_OXIDATIVE_PHOSPHORYLATION,0.028383513072216301,0.0257737778397404
+8,THMs / haloalkanes,3,Lipid metabolism,Lipid metabolism,Metabolism,kegg_KEGG_GLYCEROLIPID_METABOLISM,0.055849789176762803,0.042203338838889902
+8,THMs / haloalkanes,4,Amino acid metabolism,Amino acid metabolism,Metabolism,kegg_KEGG_ALANINE_ASPARTATE_AND_GLUTAMATE_METABOLISM,0.042819514201559897,0.037402638833530899
+8,THMs / haloalkanes,5,Nucleotide metabolism,Nucleotide metabolism,Metabolism,kegg_KEGG_PURINE_METABOLISM,0.042581569617695901,0.035544190882745401
+8,THMs / haloalkanes,6,Glycan metabolism,Glycan metabolism,Metabolism,kegg_KEGG_N_GLYCAN_BIOSYNTHESIS,0.0479106208968198,0.039647406968560103
+8,THMs / haloalkanes,7,Glutathione metabolism,Glutathione metabolism,Metabolism,kegg_KEGG_GLUTATHIONE_METABOLISM,0.039122669028111103,0.034219646565466499
+8,THMs / haloalkanes,8,Xenobiotic P450,Xenobiotic P450,Metabolism,kegg_KEGG_METABOLISM_OF_XENOBIOTICS_BY_CYTOCHROME_P450,0.034139855480801597,0.029356108940527901
+8,THMs / haloalkanes,9,DNA replication,DNA replication,Genetic information,kegg_KEGG_DNA_REPLICATION,0.027434163806245901,0.025897992742819401
+8,THMs / haloalkanes,10,Base excision repair,Base excision repair,Genetic information,kegg_KEGG_BASE_EXCISION_REPAIR,0.035486999361387099,0.031079273733574098
+8,THMs / haloalkanes,11,Nucleotide excision repair,Nucleotide excision repair,Genetic information,kegg_KEGG_NUCLEOTIDE_EXCISION_REPAIR,0.034348965032823003,0.030870977458570599
+8,THMs / haloalkanes,12,Mismatch repair,Mismatch repair,Genetic information,kegg_KEGG_MISMATCH_REPAIR,0.027683844732475,0.026017852424249199
+8,THMs / haloalkanes,13,Homologous recombination,Homologous recombination,Genetic information,kegg_KEGG_HOMOLOGOUS_RECOMBINATION,0.034802759260046501,0.032273468695601597
+8,THMs / haloalkanes,14,Proteasome,Proteasome,Genetic information,kegg_KEGG_PROTEASOME,0.036415321442873003,0.032566648200343301
+8,THMs / haloalkanes,15,MAPK signaling,MAPK signaling,Environmental signaling,kegg_KEGG_MAPK_SIGNALING_PATHWAY,0.054751061266348801,0.042512078143922397
+8,THMs / haloalkanes,16,Calcium signaling,Calcium signaling,Environmental signaling,kegg_KEGG_CALCIUM_SIGNALING_PATHWAY,0.049633218842147803,0.0390327604382796
+8,THMs / haloalkanes,17,AhR / PXR / PPAR,AhR / PXR / PPAR,Environmental signaling,kegg_KEGG_PPAR_SIGNALING_PATHWAY,0.048547214240083902,0.036177529608616497
+8,THMs / haloalkanes,18,Cytokine-receptor,Cytokine-receptor,Environmental signaling,kegg_KEGG_CYTOKINE_CYTOKINE_RECEPTOR_INTERACTION,0.061451126260297001,0.047631526335651701
+8,THMs / haloalkanes,19,Cell cycle,Cell cycle,Cellular response,kegg_KEGG_CELL_CYCLE,0.040047850100594001,0.034338770795836603
+8,THMs / haloalkanes,20,Apoptosis,Apoptosis,Cellular response,kegg_KEGG_APOPTOSIS,0.0549834782501257,0.044157388412693302
+8,THMs / haloalkanes,21,Autophagy,Autophagy,Cellular response,kegg_KEGG_REGULATION_OF_AUTOPHAGY,0.0407593725539434,0.033684671668975499
+8,THMs / haloalkanes,22,Nrf2 oxidative stress,Nrf2 oxidative stress,Cellular response,kegg_KEGG_GLUTATHIONE_METABOLISM,0.039122669028111103,0.034219646565466499
+8,THMs / haloalkanes,23,p53 signaling,p53 signaling,Organismal / disease,kegg_KEGG_P53_SIGNALING_PATHWAY,0.046057431532157203,0.037525886245207501
+8,THMs / haloalkanes,24,NF-kB signaling,NF-kB signaling,Organismal / disease,kegg_KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY,0.054221204568338802,0.0447187497106444
+8,THMs / haloalkanes,25,Neuroactive ligand-receptor,Neuroactive ligand-receptor,Organismal / disease,kegg_KEGG_NEUROACTIVE_LIGAND_RECEPTOR_INTERACTION,0.041154804867552297,0.028779115912316199
+8,THMs / haloalkanes,26,Immune signaling,Immune signaling,Organismal / disease,kegg_KEGG_T_CELL_RECEPTOR_SIGNALING_PATHWAY,0.043757279287888501,0.037282908125646899
+8,THMs / haloalkanes,27,Cancer pathways,Cancer pathways,Organismal / disease,kegg_KEGG_PATHWAYS_IN_CANCER,0.055508635652345997,0.043052172057015302
+9,Haloketones,1,Glycolysis / TCA,Glycolysis / TCA,Metabolism,kegg_KEGG_CITRATE_CYCLE_TCA_CYCLE,0.021443181324750499,0.013519465041791801
+9,Haloketones,2,OxPhos,OxPhos,Metabolism,kegg_KEGG_OXIDATIVE_PHOSPHORYLATION,0.0169356766325282,0.0143259414000523
+9,Haloketones,3,Lipid metabolism,Lipid metabolism,Metabolism,kegg_KEGG_GLYCEROLIPID_METABOLISM,0.025711698099075499,0.0120652477612026
+9,Haloketones,4,Amino acid metabolism,Amino acid metabolism,Metabolism,kegg_KEGG_ALANINE_ASPARTATE_AND_GLUTAMATE_METABOLISM,0.017692068294146799,0.0122751929261178
+9,Haloketones,5,Nucleotide metabolism,Nucleotide metabolism,Metabolism,kegg_KEGG_PURINE_METABOLISM,0.021651765575651599,0.014614386840701101
+9,Haloketones,6,Glycan metabolism,Glycan metabolism,Metabolism,kegg_KEGG_N_GLYCAN_BIOSYNTHESIS,0.019242359661422199,0.0109791457331625
+9,Haloketones,7,Glutathione metabolism,Glutathione metabolism,Metabolism,kegg_KEGG_GLUTATHIONE_METABOLISM,0.019476408711640799,0.014573386248996199
+9,Haloketones,8,Xenobiotic P450,Xenobiotic P450,Metabolism,kegg_KEGG_METABOLISM_OF_XENOBIOTICS_BY_CYTOCHROME_P450,0.016472437044368599,0.011688690504094899
+9,Haloketones,9,DNA replication,DNA replication,Genetic information,kegg_KEGG_DNA_REPLICATION,0.015605522000658499,0.014069350937232
+9,Haloketones,10,Base excision repair,Base excision repair,Genetic information,kegg_KEGG_BASE_EXCISION_REPAIR,0.017666834360952201,0.013259108733139201
+9,Haloketones,11,Nucleotide excision repair,Nucleotide excision repair,Genetic information,kegg_KEGG_NUCLEOTIDE_EXCISION_REPAIR,0.018013967230981101,0.0145359796567287
+9,Haloketones,12,Mismatch repair,Mismatch repair,Genetic information,kegg_KEGG_MISMATCH_REPAIR,0.0163478106151311,0.014681818306905301
+9,Haloketones,13,Homologous recombination,Homologous recombination,Genetic information,kegg_KEGG_HOMOLOGOUS_RECOMBINATION,0.0166015959093525,0.014072305344907599
+9,Haloketones,14,Proteasome,Proteasome,Genetic information,kegg_KEGG_PROTEASOME,0.0169252046431397,0.013076531400610001
+9,Haloketones,15,MAPK signaling,MAPK signaling,Environmental signaling,kegg_KEGG_MAPK_SIGNALING_PATHWAY,0.023893695190423201,0.0116547120679968
+9,Haloketones,16,Calcium signaling,Calcium signaling,Environmental signaling,kegg_KEGG_CALCIUM_SIGNALING_PATHWAY,0.022150523128879301,0.0115500647250111
+9,Haloketones,17,AhR / PXR / PPAR,AhR / PXR / PPAR,Environmental signaling,kegg_KEGG_PPAR_SIGNALING_PATHWAY,0.024653894072439699,0.012284209440972299
+9,Haloketones,18,Cytokine-receptor,Cytokine-receptor,Environmental signaling,kegg_KEGG_CYTOKINE_CYTOKINE_RECEPTOR_INTERACTION,0.022027116396348901,0.0082075164717035996
+9,Haloketones,19,Cell cycle,Cell cycle,Cellular response,kegg_KEGG_CELL_CYCLE,0.019749303273018302,0.0140402239682609
+9,Haloketones,20,Apoptosis,Apoptosis,Cellular response,kegg_KEGG_APOPTOSIS,0.021498448657186101,0.010672358819753701
+9,Haloketones,21,Autophagy,Autophagy,Cellular response,kegg_KEGG_REGULATION_OF_AUTOPHAGY,0.022320079715709401,0.0152453788307415
+9,Haloketones,22,Nrf2 oxidative stress,Nrf2 oxidative stress,Cellular response,kegg_KEGG_GLUTATHIONE_METABOLISM,0.019476408711640799,0.014573386248996199
+9,Haloketones,23,p53 signaling,p53 signaling,Organismal / disease,kegg_KEGG_P53_SIGNALING_PATHWAY,0.020010514595974999,0.0114789693090253
+9,Haloketones,24,NF-kB signaling,NF-kB signaling,Organismal / disease,kegg_KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY,0.0202574083378637,0.0107549534801693
+9,Haloketones,25,Neuroactive ligand-receptor,Neuroactive ligand-receptor,Organismal / disease,kegg_KEGG_NEUROACTIVE_LIGAND_RECEPTOR_INTERACTION,0.016642925753693499,0.0042672367984573998
+9,Haloketones,26,Immune signaling,Immune signaling,Organismal / disease,kegg_KEGG_T_CELL_RECEPTOR_SIGNALING_PATHWAY,0.017153070411447601,0.010678699249205999
+9,Haloketones,27,Cancer pathways,Cancer pathways,Organismal / disease,kegg_KEGG_PATHWAYS_IN_CANCER,0.025721262880196601,0.013264799284865901
+10,Haloaldehydes,1,Glycolysis / TCA,Glycolysis / TCA,Metabolism,kegg_KEGG_CITRATE_CYCLE_TCA_CYCLE,0.0132742178834873,0.0053505016005285996
+10,Haloaldehydes,2,OxPhos,OxPhos,Metabolism,kegg_KEGG_OXIDATIVE_PHOSPHORYLATION,0.0097250754214304007,0.0071153401889545
+10,Haloaldehydes,3,Lipid metabolism,Lipid metabolism,Metabolism,kegg_KEGG_GLYCEROLIPID_METABOLISM,0.017052232910189601,0.0034057825723167001
+10,Haloaldehydes,4,Amino acid metabolism,Amino acid metabolism,Metabolism,kegg_KEGG_ALANINE_ASPARTATE_AND_GLUTAMATE_METABOLISM,0.011492481310881601,0.0060756059428526002
+10,Haloaldehydes,5,Nucleotide metabolism,Nucleotide metabolism,Metabolism,kegg_KEGG_PURINE_METABOLISM,0.0125614319450141,0.0055240532100636003
+10,Haloaldehydes,6,Glycan metabolism,Glycan metabolism,Metabolism,kegg_KEGG_N_GLYCAN_BIOSYNTHESIS,0.011396970693291601,0.0031337567650318999
+10,Haloaldehydes,7,Glutathione metabolism,Glutathione metabolism,Metabolism,kegg_KEGG_GLUTATHIONE_METABOLISM,0.0094496327139477997,0.0045466102513032
+10,Haloaldehydes,8,Xenobiotic P450,Xenobiotic P450,Metabolism,kegg_KEGG_METABOLISM_OF_XENOBIOTICS_BY_CYTOCHROME_P450,0.0093577789876059993,0.0045740324473323001
+10,Haloaldehydes,9,DNA replication,DNA replication,Genetic information,kegg_KEGG_DNA_REPLICATION,0.0069231648121383001,0.0053869937487117997
+10,Haloaldehydes,10,Base excision repair,Base excision repair,Genetic information,kegg_KEGG_BASE_EXCISION_REPAIR,0.0091731531220425998,0.0047654274942296
+10,Haloaldehydes,11,Nucleotide excision repair,Nucleotide excision repair,Genetic information,kegg_KEGG_NUCLEOTIDE_EXCISION_REPAIR,0.0084750277455219007,0.0049970401712694998
+10,Haloaldehydes,12,Mismatch repair,Mismatch repair,Genetic information,kegg_KEGG_MISMATCH_REPAIR,0.0074416979008402996,0.0057757055926144999
+10,Haloaldehydes,13,Homologous recombination,Homologous recombination,Genetic information,kegg_KEGG_HOMOLOGOUS_RECOMBINATION,0.0071757156054516004,0.0046464250410066998
+10,Haloaldehydes,14,Proteasome,Proteasome,Genetic information,kegg_KEGG_PROTEASOME,0.0078130024249079,0.0039643291823782002
+10,Haloaldehydes,15,MAPK signaling,MAPK signaling,Environmental signaling,kegg_KEGG_MAPK_SIGNALING_PATHWAY,0.0144817617505291,0.0022427786281027
+10,Haloaldehydes,16,Calcium signaling,Calcium signaling,Environmental signaling,kegg_KEGG_CALCIUM_SIGNALING_PATHWAY,0.0154837375575943,0.0048832791537261003
+10,Haloaldehydes,17,AhR / PXR / PPAR,AhR / PXR / PPAR,Environmental signaling,kegg_KEGG_PPAR_SIGNALING_PATHWAY,0.016994629231285599,0.0046249445998182001
+10,Haloaldehydes,18,Cytokine-receptor,Cytokine-receptor,Environmental signaling,kegg_KEGG_CYTOKINE_CYTOKINE_RECEPTOR_INTERACTION,0.014671556420394499,0.00085195649574920001
+10,Haloaldehydes,19,Cell cycle,Cell cycle,Cellular response,kegg_KEGG_CELL_CYCLE,0.0098654421865021994,0.0041563628817447001
+10,Haloaldehydes,20,Apoptosis,Apoptosis,Cellular response,kegg_KEGG_APOPTOSIS,0.013525842209712299,0.0026997523722799002
+10,Haloaldehydes,21,Autophagy,Autophagy,Cellular response,kegg_KEGG_REGULATION_OF_AUTOPHAGY,0.012651000582366101,0.0055762996973981998
+10,Haloaldehydes,22,Nrf2 oxidative stress,Nrf2 oxidative stress,Cellular response,kegg_KEGG_GLUTATHIONE_METABOLISM,0.0094496327139477997,0.0045466102513032
+10,Haloaldehydes,23,p53 signaling,p53 signaling,Organismal / disease,kegg_KEGG_P53_SIGNALING_PATHWAY,0.0116526043371699,0.0031210590502202002
+10,Haloaldehydes,24,NF-kB signaling,NF-kB signaling,Organismal / disease,kegg_KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY,0.013022932441249101,0.0035204775835546999
+10,Haloaldehydes,25,Neuroactive ligand-receptor,Neuroactive ligand-receptor,Organismal / disease,kegg_KEGG_NEUROACTIVE_LIGAND_RECEPTOR_INTERACTION,0.015629857677467399,0.0032541687222312999
+10,Haloaldehydes,26,Immune signaling,Immune signaling,Organismal / disease,kegg_KEGG_T_CELL_RECEPTOR_SIGNALING_PATHWAY,0.0102183601754052,0.0037439890131636001
+10,Haloaldehydes,27,Cancer pathways,Cancer pathways,Organismal / disease,kegg_KEGG_PATHWAYS_IN_CANCER,0.014439540366302401,0.0019830767709717
+11,Halonitromethanes / nitroalkanes,1,Glycolysis / TCA,Glycolysis / TCA,Metabolism,kegg_KEGG_CITRATE_CYCLE_TCA_CYCLE,0.0109019874888764,0.0029782712059177002
+11,Halonitromethanes / nitroalkanes,2,OxPhos,OxPhos,Metabolism,kegg_KEGG_OXIDATIVE_PHOSPHORYLATION,0.0031480851383780002,0.0005383499059021
+11,Halonitromethanes / nitroalkanes,3,Lipid metabolism,Lipid metabolism,Metabolism,kegg_KEGG_GLYCEROLIPID_METABOLISM,0.0195036232386873,0.0058571729008144004
+11,Halonitromethanes / nitroalkanes,4,Amino acid metabolism,Amino acid metabolism,Metabolism,kegg_KEGG_ALANINE_ASPARTATE_AND_GLUTAMATE_METABOLISM,0.0085403973528855003,0.0031235219848564999
+11,Halonitromethanes / nitroalkanes,5,Nucleotide metabolism,Nucleotide metabolism,Metabolism,kegg_KEGG_PURINE_METABOLISM,0.0104629127632492,0.0034255340282986998
+11,Halonitromethanes / nitroalkanes,6,Glycan metabolism,Glycan metabolism,Metabolism,kegg_KEGG_N_GLYCAN_BIOSYNTHESIS,0.0123821111887964,0.0041188972605366997
+11,Halonitromethanes / nitroalkanes,7,Glutathione metabolism,Glutathione metabolism,Metabolism,kegg_KEGG_GLUTATHIONE_METABOLISM,0.0058533620550494997,0.00095033959240490001
+11,Halonitromethanes / nitroalkanes,8,Xenobiotic P450,Xenobiotic P450,Metabolism,kegg_KEGG_METABOLISM_OF_XENOBIOTICS_BY_CYTOCHROME_P450,0.0045400609218099004,-0.00024368561846370001
+11,Halonitromethanes / nitroalkanes,9,DNA replication,DNA replication,Genetic information,kegg_KEGG_DNA_REPLICATION,0.0051688887179352,0.0036327176545087
+11,Halonitromethanes / nitroalkanes,10,Base excision repair,Base excision repair,Genetic information,kegg_KEGG_BASE_EXCISION_REPAIR,0.0082069361306394001,0.0037992105028263998
+11,Halonitromethanes / nitroalkanes,11,Nucleotide excision repair,Nucleotide excision repair,Genetic information,kegg_KEGG_NUCLEOTIDE_EXCISION_REPAIR,0.0073592860893592002,0.0038812985151067
+11,Halonitromethanes / nitroalkanes,12,Mismatch repair,Mismatch repair,Genetic information,kegg_KEGG_MISMATCH_REPAIR,0.0040955990990969998,0.0024296067908712001
+11,Halonitromethanes / nitroalkanes,13,Homologous recombination,Homologous recombination,Genetic information,kegg_KEGG_HOMOLOGOUS_RECOMBINATION,0.0056652848139345001,0.0031359942494896
+11,Halonitromethanes / nitroalkanes,14,Proteasome,Proteasome,Genetic information,kegg_KEGG_PROTEASOME,0.0088256749714893008,0.0049770017289596001
+11,Halonitromethanes / nitroalkanes,15,MAPK signaling,MAPK signaling,Environmental signaling,kegg_KEGG_MAPK_SIGNALING_PATHWAY,0.016908975682610499,0.0046699925601841
+11,Halonitromethanes / nitroalkanes,16,Calcium signaling,Calcium signaling,Environmental signaling,kegg_KEGG_CALCIUM_SIGNALING_PATHWAY,0.0104139942017385,-0.00018646420212960001
+11,Halonitromethanes / nitroalkanes,17,AhR / PXR / PPAR,AhR / PXR / PPAR,Environmental signaling,kegg_KEGG_PPAR_SIGNALING_PATHWAY,0.014969004072908,0.0025993194414405999
+11,Halonitromethanes / nitroalkanes,18,Cytokine-receptor,Cytokine-receptor,Environmental signaling,kegg_KEGG_CYTOKINE_CYTOKINE_RECEPTOR_INTERACTION,0.016045302745441699,0.0022257028207964
+11,Halonitromethanes / nitroalkanes,19,Cell cycle,Cell cycle,Cellular response,kegg_KEGG_CELL_CYCLE,0.010350614069018599,0.0046415347642610998
+11,Halonitromethanes / nitroalkanes,20,Apoptosis,Apoptosis,Cellular response,kegg_KEGG_APOPTOSIS,0.0151818469171408,0.0043557570797083996
+11,Halonitromethanes / nitroalkanes,21,Autophagy,Autophagy,Cellular response,kegg_KEGG_REGULATION_OF_AUTOPHAGY,0.011591984990125599,0.0045172841051577001
+11,Halonitromethanes / nitroalkanes,22,Nrf2 oxidative stress,Nrf2 oxidative stress,Cellular response,kegg_KEGG_GLUTATHIONE_METABOLISM,0.0058533620550494997,0.00095033959240490001
+11,Halonitromethanes / nitroalkanes,23,p53 signaling,p53 signaling,Organismal / disease,kegg_KEGG_P53_SIGNALING_PATHWAY,0.012849632632104299,0.0043180873451546002
+11,Halonitromethanes / nitroalkanes,24,NF-kB signaling,NF-kB signaling,Organismal / disease,kegg_KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY,0.014875326554202199,0.0053728716965077998
+11,Halonitromethanes / nitroalkanes,25,Neuroactive ligand-receptor,Neuroactive ligand-receptor,Organismal / disease,kegg_KEGG_NEUROACTIVE_LIGAND_RECEPTOR_INTERACTION,0.0070552875405044003,-0.0053204014147316004
+11,Halonitromethanes / nitroalkanes,26,Immune signaling,Immune signaling,Organismal / disease,kegg_KEGG_T_CELL_RECEPTOR_SIGNALING_PATHWAY,0.0088127568339728003,0.0023383856717311999
+11,Halonitromethanes / nitroalkanes,27,Cancer pathways,Cancer pathways,Organismal / disease,kegg_KEGG_PATHWAYS_IN_CANCER,0.018081850759779802,0.0056253871644491001
+12,Nitrosamines / nitramines,1,Glycolysis / TCA,Glycolysis / TCA,Metabolism,kegg_KEGG_CITRATE_CYCLE_TCA_CYCLE,0.00086939355820929995,-0.0070543227247492997
+12,Nitrosamines / nitramines,2,OxPhos,OxPhos,Metabolism,kegg_KEGG_OXIDATIVE_PHOSPHORYLATION,-0.0074691503007073999,-0.0100788855331832
+12,Nitrosamines / nitramines,3,Lipid metabolism,Lipid metabolism,Metabolism,kegg_KEGG_GLYCEROLIPID_METABOLISM,0.0029087788500698,-0.010737671487803
+12,Nitrosamines / nitramines,4,Amino acid metabolism,Amino acid metabolism,Metabolism,kegg_KEGG_ALANINE_ASPARTATE_AND_GLUTAMATE_METABOLISM,-0.0071985731108961002,-0.012615448478925
+12,Nitrosamines / nitramines,5,Nucleotide metabolism,Nucleotide metabolism,Metabolism,kegg_KEGG_PURINE_METABOLISM,-0.0022643761369175001,-0.0093017548718678997
+12,Nitrosamines / nitramines,6,Glycan metabolism,Glycan metabolism,Metabolism,kegg_KEGG_N_GLYCAN_BIOSYNTHESIS,-0.0049952107205731002,-0.013258424648832701
+12,Nitrosamines / nitramines,7,Glutathione metabolism,Glutathione metabolism,Metabolism,kegg_KEGG_GLUTATHIONE_METABOLISM,-0.0049324747652650996,-0.0098354972279095995
+12,Nitrosamines / nitramines,8,Xenobiotic P450,Xenobiotic P450,Metabolism,kegg_KEGG_METABOLISM_OF_XENOBIOTICS_BY_CYTOCHROME_P450,-0.00068120124181089996,-0.0054649477820845
+12,Nitrosamines / nitramines,9,DNA replication,DNA replication,Genetic information,kegg_KEGG_DNA_REPLICATION,-0.0081399968514550992,-0.0096761679148814998
+12,Nitrosamines / nitramines,10,Base excision repair,Base excision repair,Genetic information,kegg_KEGG_BASE_EXCISION_REPAIR,-0.0050468857056514002,-0.0094546113334642995
+12,Nitrosamines / nitramines,11,Nucleotide excision repair,Nucleotide excision repair,Genetic information,kegg_KEGG_NUCLEOTIDE_EXCISION_REPAIR,-0.0066460928677744002,-0.010124080442026799
+12,Nitrosamines / nitramines,12,Mismatch repair,Mismatch repair,Genetic information,kegg_KEGG_MISMATCH_REPAIR,-0.0078841215494410994,-0.0095501138576667994
+12,Nitrosamines / nitramines,13,Homologous recombination,Homologous recombination,Genetic information,kegg_KEGG_HOMOLOGOUS_RECOMBINATION,-0.0076506577511102,-0.010179948315555101
+12,Nitrosamines / nitramines,14,Proteasome,Proteasome,Genetic information,kegg_KEGG_PROTEASOME,-0.0064289646601970001,-0.010277637902726599
+12,Nitrosamines / nitramines,15,MAPK signaling,MAPK signaling,Environmental signaling,kegg_KEGG_MAPK_SIGNALING_PATHWAY,0.00142195321769,-0.0108170299047363
+12,Nitrosamines / nitramines,16,Calcium signaling,Calcium signaling,Environmental signaling,kegg_KEGG_CALCIUM_SIGNALING_PATHWAY,-0.0022021821803456,-0.012802640584213701
+12,Nitrosamines / nitramines,17,AhR / PXR / PPAR,AhR / PXR / PPAR,Environmental signaling,kegg_KEGG_PPAR_SIGNALING_PATHWAY,0.0024684263137048999,-0.0099012583177623993
+12,Nitrosamines / nitramines,18,Cytokine-receptor,Cytokine-receptor,Environmental signaling,kegg_KEGG_CYTOKINE_CYTOKINE_RECEPTOR_INTERACTION,-0.0024197439031987001,-0.016239343827843901
+12,Nitrosamines / nitramines,19,Cell cycle,Cell cycle,Cellular response,kegg_KEGG_CELL_CYCLE,-0.0042386797598106003,-0.0099477590645680007
+12,Nitrosamines / nitramines,20,Apoptosis,Apoptosis,Cellular response,kegg_KEGG_APOPTOSIS,-0.0023514349412778,-0.013177524778710099
+12,Nitrosamines / nitramines,21,Autophagy,Autophagy,Cellular response,kegg_KEGG_REGULATION_OF_AUTOPHAGY,-0.0032664976542434001,-0.010341198539211199
+12,Nitrosamines / nitramines,22,Nrf2 oxidative stress,Nrf2 oxidative stress,Cellular response,kegg_KEGG_GLUTATHIONE_METABOLISM,-0.0049324747652650996,-0.0098354972279095995
+12,Nitrosamines / nitramines,23,p53 signaling,p53 signaling,Organismal / disease,kegg_KEGG_P53_SIGNALING_PATHWAY,-0.0021833841863250999,-0.0107149294732747
+12,Nitrosamines / nitramines,24,NF-kB signaling,NF-kB signaling,Organismal / disease,kegg_KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY,-0.0029025548016196,-0.0124050096593139
+12,Nitrosamines / nitramines,25,Neuroactive ligand-receptor,Neuroactive ligand-receptor,Organismal / disease,kegg_KEGG_NEUROACTIVE_LIGAND_RECEPTOR_INTERACTION,-0.0040867822734852004,-0.016462471228721201
+12,Nitrosamines / nitramines,26,Immune signaling,Immune signaling,Organismal / disease,kegg_KEGG_T_CELL_RECEPTOR_SIGNALING_PATHWAY,-0.0065775582022621999,-0.0130519293645037
+12,Nitrosamines / nitramines,27,Cancer pathways,Cancer pathways,Organismal / disease,kegg_KEGG_PATHWAYS_IN_CANCER,0.0030834905179406001,-0.0093729730773900004
+13,Halobenzaldehydes / aromatic aldehydes,1,Glycolysis / TCA,Glycolysis / TCA,Metabolism,kegg_KEGG_CITRATE_CYCLE_TCA_CYCLE,0.0099229575082828998,0.0019992412253242
+13,Halobenzaldehydes / aromatic aldehydes,2,OxPhos,OxPhos,Metabolism,kegg_KEGG_OXIDATIVE_PHOSPHORYLATION,0.0096277327264188001,0.0070179974939429002
+13,Halobenzaldehydes / aromatic aldehydes,3,Lipid metabolism,Lipid metabolism,Metabolism,kegg_KEGG_GLYCEROLIPID_METABOLISM,0.0102675217792888,-0.003378928558584
+13,Halobenzaldehydes / aromatic aldehydes,4,Amino acid metabolism,Amino acid metabolism,Metabolism,kegg_KEGG_ALANINE_ASPARTATE_AND_GLUTAMATE_METABOLISM,0.0098743286582304007,0.0044574532902014003
+13,Halobenzaldehydes / aromatic aldehydes,5,Nucleotide metabolism,Nucleotide metabolism,Metabolism,kegg_KEGG_PURINE_METABOLISM,0.0078532720952907992,0.00081589336034029996
+13,Halobenzaldehydes / aromatic aldehydes,6,Glycan metabolism,Glycan metabolism,Metabolism,kegg_KEGG_N_GLYCAN_BIOSYNTHESIS,0.010695037018372501,0.0024318230901128001
+13,Halobenzaldehydes / aromatic aldehydes,7,Glutathione metabolism,Glutathione metabolism,Metabolism,kegg_KEGG_GLUTATHIONE_METABOLISM,0.0073650857268464003,0.0024620632642018002
+13,Halobenzaldehydes / aromatic aldehydes,8,Xenobiotic P450,Xenobiotic P450,Metabolism,kegg_KEGG_METABOLISM_OF_XENOBIOTICS_BY_CYTOCHROME_P450,0.0055486999115637002,0.00076495337129000001
+13,Halobenzaldehydes / aromatic aldehydes,9,DNA replication,DNA replication,Genetic information,kegg_KEGG_DNA_REPLICATION,0.00453222988774,0.0029960588243135001
+13,Halobenzaldehydes / aromatic aldehydes,10,Base excision repair,Base excision repair,Genetic information,kegg_KEGG_BASE_EXCISION_REPAIR,0.0046707026746194997,0.00026297704680649999
+13,Halobenzaldehydes / aromatic aldehydes,11,Nucleotide excision repair,Nucleotide excision repair,Genetic information,kegg_KEGG_NUCLEOTIDE_EXCISION_REPAIR,0.0030924087336156002,-0.0003855788406368
+13,Halobenzaldehydes / aromatic aldehydes,12,Mismatch repair,Mismatch repair,Genetic information,kegg_KEGG_MISMATCH_REPAIR,0.0042322800795033004,0.0025662877712775002
+13,Halobenzaldehydes / aromatic aldehydes,13,Homologous recombination,Homologous recombination,Genetic information,kegg_KEGG_HOMOLOGOUS_RECOMBINATION,0.0031562142443763001,0.00062692367993139996
+13,Halobenzaldehydes / aromatic aldehydes,14,Proteasome,Proteasome,Genetic information,kegg_KEGG_PROTEASOME,-0.0010391215531186,-0.0048877947956482001
+13,Halobenzaldehydes / aromatic aldehydes,15,MAPK signaling,MAPK signaling,Environmental signaling,kegg_KEGG_MAPK_SIGNALING_PATHWAY,0.0097748534976638008,-0.0024641296247625002
+13,Halobenzaldehydes / aromatic aldehydes,16,Calcium signaling,Calcium signaling,Environmental signaling,kegg_KEGG_CALCIUM_SIGNALING_PATHWAY,0.023697389078633099,0.0130969306747649
+13,Halobenzaldehydes / aromatic aldehydes,17,AhR / PXR / PPAR,AhR / PXR / PPAR,Environmental signaling,kegg_KEGG_PPAR_SIGNALING_PATHWAY,0.015953427250211701,0.0035837426187443002
+13,Halobenzaldehydes / aromatic aldehydes,18,Cytokine-receptor,Cytokine-receptor,Environmental signaling,kegg_KEGG_CYTOKINE_CYTOKINE_RECEPTOR_INTERACTION,0.020446068835623998,0.0066264689109787004
+13,Halobenzaldehydes / aromatic aldehydes,19,Cell cycle,Cell cycle,Cellular response,kegg_KEGG_CELL_CYCLE,0.0026527295887536998,-0.0030563497160037002
+13,Halobenzaldehydes / aromatic aldehydes,20,Apoptosis,Apoptosis,Cellular response,kegg_KEGG_APOPTOSIS,0.0094384670912823002,-0.0013876227461500001
+13,Halobenzaldehydes / aromatic aldehydes,21,Autophagy,Autophagy,Cellular response,kegg_KEGG_REGULATION_OF_AUTOPHAGY,0.0056845111847088001,-0.0013901897002590001
+13,Halobenzaldehydes / aromatic aldehydes,22,Nrf2 oxidative stress,Nrf2 oxidative stress,Cellular response,kegg_KEGG_GLUTATHIONE_METABOLISM,0.0073650857268464003,0.0024620632642018002
+13,Halobenzaldehydes / aromatic aldehydes,23,p53 signaling,p53 signaling,Organismal / disease,kegg_KEGG_P53_SIGNALING_PATHWAY,0.0054354971300888998,-0.0030960481568606999
+13,Halobenzaldehydes / aromatic aldehydes,24,NF-kB signaling,NF-kB signaling,Organismal / disease,kegg_KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY,0.0063139751659804996,-0.0031884796917138001
+13,Halobenzaldehydes / aromatic aldehydes,25,Neuroactive ligand-receptor,Neuroactive ligand-receptor,Organismal / disease,kegg_KEGG_NEUROACTIVE_LIGAND_RECEPTOR_INTERACTION,0.0459791955262948,0.033603506571058699
+13,Halobenzaldehydes / aromatic aldehydes,26,Immune signaling,Immune signaling,Organismal / disease,kegg_KEGG_T_CELL_RECEPTOR_SIGNALING_PATHWAY,0.0106267516918023,0.0041523805295606998
+13,Halobenzaldehydes / aromatic aldehydes,27,Cancer pathways,Cancer pathways,Organismal / disease,kegg_KEGG_PATHWAYS_IN_CANCER,0.0045582311587402998,-0.0078982324365903002
+14,Inorganic oxyhalides,1,Glycolysis / TCA,Glycolysis / TCA,Metabolism,kegg_KEGG_CITRATE_CYCLE_TCA_CYCLE,-0.0413545305130456,-0.049278246796004198
+14,Inorganic oxyhalides,2,OxPhos,OxPhos,Metabolism,kegg_KEGG_OXIDATIVE_PHOSPHORYLATION,-0.063927583302972296,-0.066537318535448101
+14,Inorganic oxyhalides,3,Lipid metabolism,Lipid metabolism,Metabolism,kegg_KEGG_GLYCEROLIPID_METABOLISM,-0.042029096920827597,-0.0556755472587004
+14,Inorganic oxyhalides,4,Amino acid metabolism,Amino acid metabolism,Metabolism,kegg_KEGG_ALANINE_ASPARTATE_AND_GLUTAMATE_METABOLISM,-0.0558853930620044,-0.061302268430033301
+14,Inorganic oxyhalides,5,Nucleotide metabolism,Nucleotide metabolism,Metabolism,kegg_KEGG_PURINE_METABOLISM,-0.046209618219033001,-0.053246996953983397
+14,Inorganic oxyhalides,6,Glycan metabolism,Glycan metabolism,Metabolism,kegg_KEGG_N_GLYCAN_BIOSYNTHESIS,-0.0394590695684379,-0.0477222834966975
+14,Inorganic oxyhalides,7,Glutathione metabolism,Glutathione metabolism,Metabolism,kegg_KEGG_GLUTATHIONE_METABOLISM,-0.059076541271812298,-0.063979563734456804
+14,Inorganic oxyhalides,8,Xenobiotic P450,Xenobiotic P450,Metabolism,kegg_KEGG_METABOLISM_OF_XENOBIOTICS_BY_CYTOCHROME_P450,-0.054616214956882299,-0.059399961497155901
+14,Inorganic oxyhalides,9,DNA replication,DNA replication,Genetic information,kegg_KEGG_DNA_REPLICATION,-0.030766738513074599,-0.032302909576500997
+14,Inorganic oxyhalides,10,Base excision repair,Base excision repair,Genetic information,kegg_KEGG_BASE_EXCISION_REPAIR,-0.033656325391684901,-0.038064051019497801
+14,Inorganic oxyhalides,11,Nucleotide excision repair,Nucleotide excision repair,Genetic information,kegg_KEGG_NUCLEOTIDE_EXCISION_REPAIR,-0.041203007724422397,-0.044680995298674697
+14,Inorganic oxyhalides,12,Mismatch repair,Mismatch repair,Genetic information,kegg_KEGG_MISMATCH_REPAIR,-0.047939995951031697,-0.049605988259257397
+14,Inorganic oxyhalides,13,Homologous recombination,Homologous recombination,Genetic information,kegg_KEGG_HOMOLOGOUS_RECOMBINATION,-0.039774162558826202,-0.042303453123271099
+14,Inorganic oxyhalides,14,Proteasome,Proteasome,Genetic information,kegg_KEGG_PROTEASOME,-0.0272443254179307,-0.031092998660460301
+14,Inorganic oxyhalides,15,MAPK signaling,MAPK signaling,Environmental signaling,kegg_KEGG_MAPK_SIGNALING_PATHWAY,-0.036533540721161599,-0.048772523843587899
+14,Inorganic oxyhalides,16,Calcium signaling,Calcium signaling,Environmental signaling,kegg_KEGG_CALCIUM_SIGNALING_PATHWAY,-0.065102375058642997,-0.075702833462511096
+14,Inorganic oxyhalides,17,AhR / PXR / PPAR,AhR / PXR / PPAR,Environmental signaling,kegg_KEGG_PPAR_SIGNALING_PATHWAY,-0.058366265271798598,-0.070735949903265899
+14,Inorganic oxyhalides,18,Cytokine-receptor,Cytokine-receptor,Environmental signaling,kegg_KEGG_CYTOKINE_CYTOKINE_RECEPTOR_INTERACTION,-0.058596190029485802,-0.072415789954131005
+14,Inorganic oxyhalides,19,Cell cycle,Cell cycle,Cellular response,kegg_KEGG_CELL_CYCLE,-0.034707643665910698,-0.040416722970668097
+14,Inorganic oxyhalides,20,Apoptosis,Apoptosis,Cellular response,kegg_KEGG_APOPTOSIS,-0.043790340577952697,-0.054616430415384998
+14,Inorganic oxyhalides,21,Autophagy,Autophagy,Cellular response,kegg_KEGG_REGULATION_OF_AUTOPHAGY,-0.057587466651715102,-0.064662167536682899
+14,Inorganic oxyhalides,22,Nrf2 oxidative stress,Nrf2 oxidative stress,Cellular response,kegg_KEGG_GLUTATHIONE_METABOLISM,-0.059076541271812298,-0.063979563734456804
+14,Inorganic oxyhalides,23,p53 signaling,p53 signaling,Organismal / disease,kegg_KEGG_P53_SIGNALING_PATHWAY,-0.0386196033132973,-0.047151148600246898
+14,Inorganic oxyhalides,24,NF-kB signaling,NF-kB signaling,Organismal / disease,kegg_KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY,-0.036558153507478999,-0.046060608365173297
+14,Inorganic oxyhalides,25,Neuroactive ligand-receptor,Neuroactive ligand-receptor,Organismal / disease,kegg_KEGG_NEUROACTIVE_LIGAND_RECEPTOR_INTERACTION,-0.066501128610510302,-0.078876817565746299
+14,Inorganic oxyhalides,26,Immune signaling,Immune signaling,Organismal / disease,kegg_KEGG_T_CELL_RECEPTOR_SIGNALING_PATHWAY,-0.049582518029030902,-0.056056889191272399
+14,Inorganic oxyhalides,27,Cancer pathways,Cancer pathways,Organismal / disease,kegg_KEGG_PATHWAYS_IN_CANCER,-0.036400313778590099,-0.048856777373920697
+15,Haloalkenes / haloalkenoic acids,1,Glycolysis / TCA,Glycolysis / TCA,Metabolism,kegg_KEGG_CITRATE_CYCLE_TCA_CYCLE,0.013849477024900501,0.0059257607419418001
+15,Haloalkenes / haloalkenoic acids,2,OxPhos,OxPhos,Metabolism,kegg_KEGG_OXIDATIVE_PHOSPHORYLATION,0.0102012523989381,0.0075915171664621998
+15,Haloalkenes / haloalkenoic acids,3,Lipid metabolism,Lipid metabolism,Metabolism,kegg_KEGG_GLYCEROLIPID_METABOLISM,0.025180340581784099,0.0115338902439112
+15,Haloalkenes / haloalkenoic acids,4,Amino acid metabolism,Amino acid metabolism,Metabolism,kegg_KEGG_ALANINE_ASPARTATE_AND_GLUTAMATE_METABOLISM,0.0176955392630108,0.012278663894981799
+15,Haloalkenes / haloalkenoic acids,5,Nucleotide metabolism,Nucleotide metabolism,Metabolism,kegg_KEGG_PURINE_METABOLISM,0.013393801629612199,0.0063564228946617002
+15,Haloalkenes / haloalkenoic acids,6,Glycan metabolism,Glycan metabolism,Metabolism,kegg_KEGG_N_GLYCAN_BIOSYNTHESIS,0.021965471287665499,0.013702257359405799
+15,Haloalkenes / haloalkenoic acids,7,Glutathione metabolism,Glutathione metabolism,Metabolism,kegg_KEGG_GLUTATHIONE_METABOLISM,0.0143539659613301,0.0094509434986855007
+15,Haloalkenes / haloalkenoic acids,8,Xenobiotic P450,Xenobiotic P450,Metabolism,kegg_KEGG_METABOLISM_OF_XENOBIOTICS_BY_CYTOCHROME_P450,0.0056772398720947,0.00089349333182100002
+15,Haloalkenes / haloalkenoic acids,9,DNA replication,DNA replication,Genetic information,kegg_KEGG_DNA_REPLICATION,0.0057125527117134998,0.0041763816482870003
+15,Haloalkenes / haloalkenoic acids,10,Base excision repair,Base excision repair,Genetic information,kegg_KEGG_BASE_EXCISION_REPAIR,0.0089699702118470007,0.004562244584034
+15,Haloalkenes / haloalkenoic acids,11,Nucleotide excision repair,Nucleotide excision repair,Genetic information,kegg_KEGG_NUCLEOTIDE_EXCISION_REPAIR,0.0088976527132382001,0.0054196651389857003
+15,Haloalkenes / haloalkenoic acids,12,Mismatch repair,Mismatch repair,Genetic information,kegg_KEGG_MISMATCH_REPAIR,0.0082072242318175,0.0065412319235917003
+15,Haloalkenes / haloalkenoic acids,13,Homologous recombination,Homologous recombination,Genetic information,kegg_KEGG_HOMOLOGOUS_RECOMBINATION,0.0081130885581787993,0.0055837979937338996
+15,Haloalkenes / haloalkenoic acids,14,Proteasome,Proteasome,Genetic information,kegg_KEGG_PROTEASOME,0.0070313139115841996,0.0031826406690545002
+15,Haloalkenes / haloalkenoic acids,15,MAPK signaling,MAPK signaling,Environmental signaling,kegg_KEGG_MAPK_SIGNALING_PATHWAY,0.0228508994762197,0.010611916353793299
+15,Haloalkenes / haloalkenoic acids,16,Calcium signaling,Calcium signaling,Environmental signaling,kegg_KEGG_CALCIUM_SIGNALING_PATHWAY,0.0293552081033083,0.018754749699440101
+15,Haloalkenes / haloalkenoic acids,17,AhR / PXR / PPAR,AhR / PXR / PPAR,Environmental signaling,kegg_KEGG_PPAR_SIGNALING_PATHWAY,0.0246359545064023,0.0122662698749349
+15,Haloalkenes / haloalkenoic acids,18,Cytokine-receptor,Cytokine-receptor,Environmental signaling,kegg_KEGG_CYTOKINE_CYTOKINE_RECEPTOR_INTERACTION,0.0401552960881063,0.026335696163461
+15,Haloalkenes / haloalkenoic acids,19,Cell cycle,Cell cycle,Cellular response,kegg_KEGG_CELL_CYCLE,0.0115455984101647,0.0058365191054072004
+15,Haloalkenes / haloalkenoic acids,20,Apoptosis,Apoptosis,Cellular response,kegg_KEGG_APOPTOSIS,0.024313163974402901,0.013487074136970501
+15,Haloalkenes / haloalkenoic acids,21,Autophagy,Autophagy,Cellular response,kegg_KEGG_REGULATION_OF_AUTOPHAGY,0.0169985114523129,0.0099238105673450008
+15,Haloalkenes / haloalkenoic acids,22,Nrf2 oxidative stress,Nrf2 oxidative stress,Cellular response,kegg_KEGG_GLUTATHIONE_METABOLISM,0.0143539659613301,0.0094509434986855007
+15,Haloalkenes / haloalkenoic acids,23,p53 signaling,p53 signaling,Organismal / disease,kegg_KEGG_P53_SIGNALING_PATHWAY,0.018579462159547401,0.010047916872597699
+15,Haloalkenes / haloalkenoic acids,24,NF-kB signaling,NF-kB signaling,Organismal / disease,kegg_KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY,0.018994973726182401,0.0094925188684880004
+15,Haloalkenes / haloalkenoic acids,25,Neuroactive ligand-receptor,Neuroactive ligand-receptor,Organismal / disease,kegg_KEGG_NEUROACTIVE_LIGAND_RECEPTOR_INTERACTION,0.042785538596362603,0.030409849641126498
+15,Haloalkenes / haloalkenoic acids,26,Immune signaling,Immune signaling,Organismal / disease,kegg_KEGG_T_CELL_RECEPTOR_SIGNALING_PATHWAY,0.020644255090179298,0.0141698839279377
+15,Haloalkenes / haloalkenoic acids,27,Cancer pathways,Cancer pathways,Organismal / disease,kegg_KEGG_PATHWAYS_IN_CANCER,0.019554790014566101,0.0070983264192354002
+16,Haloanisoles / aromatic ethers,1,Glycolysis / TCA,Glycolysis / TCA,Metabolism,kegg_KEGG_CITRATE_CYCLE_TCA_CYCLE,-0.0052641423797670003,-0.0131878586627256
+16,Haloanisoles / aromatic ethers,2,OxPhos,OxPhos,Metabolism,kegg_KEGG_OXIDATIVE_PHOSPHORYLATION,-0.0062078268977614004,-0.0088175621302372005
+16,Haloanisoles / aromatic ethers,3,Lipid metabolism,Lipid metabolism,Metabolism,kegg_KEGG_GLYCEROLIPID_METABOLISM,-0.0044620472750802999,-0.018108497612953099
+16,Haloanisoles / aromatic ethers,4,Amino acid metabolism,Amino acid metabolism,Metabolism,kegg_KEGG_ALANINE_ASPARTATE_AND_GLUTAMATE_METABOLISM,-0.0059047378184525004,-0.011321613186481399
+16,Haloanisoles / aromatic ethers,5,Nucleotide metabolism,Nucleotide metabolism,Metabolism,kegg_KEGG_PURINE_METABOLISM,-0.0086021952805749001,-0.0156395740155253
+16,Haloanisoles / aromatic ethers,6,Glycan metabolism,Glycan metabolism,Metabolism,kegg_KEGG_N_GLYCAN_BIOSYNTHESIS,-0.0062616651176022999,-0.0145248790458619
+16,Haloanisoles / aromatic ethers,7,Glutathione metabolism,Glutathione metabolism,Metabolism,kegg_KEGG_GLUTATHIONE_METABOLISM,-0.010047349928846001,-0.0149503723914905
+16,Haloanisoles / aromatic ethers,8,Xenobiotic P450,Xenobiotic P450,Metabolism,kegg_KEGG_METABOLISM_OF_XENOBIOTICS_BY_CYTOCHROME_P450,-0.0093204420135812004,-0.014104188553854801
+16,Haloanisoles / aromatic ethers,9,DNA replication,DNA replication,Genetic information,kegg_KEGG_DNA_REPLICATION,-0.0129198964318277,-0.014456067495254099
+16,Haloanisoles / aromatic ethers,10,Base excision repair,Base excision repair,Genetic information,kegg_KEGG_BASE_EXCISION_REPAIR,-0.0109076297533081,-0.015315355381121
+16,Haloanisoles / aromatic ethers,11,Nucleotide excision repair,Nucleotide excision repair,Genetic information,kegg_KEGG_NUCLEOTIDE_EXCISION_REPAIR,-0.013703437110673899,-0.0171814246849263
+16,Haloanisoles / aromatic ethers,12,Mismatch repair,Mismatch repair,Genetic information,kegg_KEGG_MISMATCH_REPAIR,-0.011508522562237399,-0.013174514870463099
+16,Haloanisoles / aromatic ethers,13,Homologous recombination,Homologous recombination,Genetic information,kegg_KEGG_HOMOLOGOUS_RECOMBINATION,-0.0134700690878623,-0.015999359652307199
+16,Haloanisoles / aromatic ethers,14,Proteasome,Proteasome,Genetic information,kegg_KEGG_PROTEASOME,-0.0139182903237191,-0.017766963566248701
+16,Haloanisoles / aromatic ethers,15,MAPK signaling,MAPK signaling,Environmental signaling,kegg_KEGG_MAPK_SIGNALING_PATHWAY,-0.0060230395042674004,-0.0182620226266937
+16,Haloanisoles / aromatic ethers,16,Calcium signaling,Calcium signaling,Environmental signaling,kegg_KEGG_CALCIUM_SIGNALING_PATHWAY,-0.0011162666829939,-0.011716725086861999
+16,Haloanisoles / aromatic ethers,17,AhR / PXR / PPAR,AhR / PXR / PPAR,Environmental signaling,kegg_KEGG_PPAR_SIGNALING_PATHWAY,-0.00026779890286419999,-0.012637483534331501
+16,Haloanisoles / aromatic ethers,18,Cytokine-receptor,Cytokine-receptor,Environmental signaling,kegg_KEGG_CYTOKINE_CYTOKINE_RECEPTOR_INTERACTION,0.00052464802609090001,-0.0132949518985543
+16,Haloanisoles / aromatic ethers,19,Cell cycle,Cell cycle,Cellular response,kegg_KEGG_CELL_CYCLE,-0.0123812130303049,-0.018090292335062201
+16,Haloanisoles / aromatic ethers,20,Apoptosis,Apoptosis,Cellular response,kegg_KEGG_APOPTOSIS,-0.0065979097732519996,-0.017423999610684301
+16,Haloanisoles / aromatic ethers,21,Autophagy,Autophagy,Cellular response,kegg_KEGG_REGULATION_OF_AUTOPHAGY,-0.01041841885031,-0.017493119735277798
+16,Haloanisoles / aromatic ethers,22,Nrf2 oxidative stress,Nrf2 oxidative stress,Cellular response,kegg_KEGG_GLUTATHIONE_METABOLISM,-0.010047349928846001,-0.0149503723914905
+16,Haloanisoles / aromatic ethers,23,p53 signaling,p53 signaling,Organismal / disease,kegg_KEGG_P53_SIGNALING_PATHWAY,-0.0064279056614716997,-0.014959450948421301
+16,Haloanisoles / aromatic ethers,24,NF-kB signaling,NF-kB signaling,Organismal / disease,kegg_KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY,-0.0084934781600003,-0.017995933017694601
+16,Haloanisoles / aromatic ethers,25,Neuroactive ligand-receptor,Neuroactive ligand-receptor,Organismal / disease,kegg_KEGG_NEUROACTIVE_LIGAND_RECEPTOR_INTERACTION,0.0115638522990688,-0.00081183665616720003
+16,Haloanisoles / aromatic ethers,26,Immune signaling,Immune signaling,Organismal / disease,kegg_KEGG_T_CELL_RECEPTOR_SIGNALING_PATHWAY,-0.0069194374852207001,-0.0133938086474622
+16,Haloanisoles / aromatic ethers,27,Cancer pathways,Cancer pathways,Organismal / disease,kegg_KEGG_PATHWAYS_IN_CANCER,-0.0076523036763627003,-0.020108767271693299
+17,Halofuranones / MX-like DBPs,1,Glycolysis / TCA,Glycolysis / TCA,Metabolism,kegg_KEGG_CITRATE_CYCLE_TCA_CYCLE,0.0067333372133262003,-0.0011903790696324
+17,Halofuranones / MX-like DBPs,2,OxPhos,OxPhos,Metabolism,kegg_KEGG_OXIDATIVE_PHOSPHORYLATION,0.0030595396903278999,0.00044980445785200001
+17,Halofuranones / MX-like DBPs,3,Lipid metabolism,Lipid metabolism,Metabolism,kegg_KEGG_GLYCEROLIPID_METABOLISM,0.016134563632814101,0.0024881132949412001
+17,Halofuranones / MX-like DBPs,4,Amino acid metabolism,Amino acid metabolism,Metabolism,kegg_KEGG_ALANINE_ASPARTATE_AND_GLUTAMATE_METABOLISM,0.007488326609514,0.0020714512414850002
+17,Halofuranones / MX-like DBPs,5,Nucleotide metabolism,Nucleotide metabolism,Metabolism,kegg_KEGG_PURINE_METABOLISM,0.0074679537023758001,0.0004305749674253
+17,Halofuranones / MX-like DBPs,6,Glycan metabolism,Glycan metabolism,Metabolism,kegg_KEGG_N_GLYCAN_BIOSYNTHESIS,0.011329101533691901,0.0030658876054321998
+17,Halofuranones / MX-like DBPs,7,Glutathione metabolism,Glutathione metabolism,Metabolism,kegg_KEGG_GLUTATHIONE_METABOLISM,0.0060444909062455998,0.001141468443601
+17,Halofuranones / MX-like DBPs,8,Xenobiotic P450,Xenobiotic P450,Metabolism,kegg_KEGG_METABOLISM_OF_XENOBIOTICS_BY_CYTOCHROME_P450,0.0050280233937329997,0.00024427685345930001
+17,Halofuranones / MX-like DBPs,9,DNA replication,DNA replication,Genetic information,kegg_KEGG_DNA_REPLICATION,-0.00096914497647240003,-0.0025053160398988
+17,Halofuranones / MX-like DBPs,10,Base excision repair,Base excision repair,Genetic information,kegg_KEGG_BASE_EXCISION_REPAIR,0.003029776558585,-0.0013779490692278999
+17,Halofuranones / MX-like DBPs,11,Nucleotide excision repair,Nucleotide excision repair,Genetic information,kegg_KEGG_NUCLEOTIDE_EXCISION_REPAIR,0.0024152429311942998,-0.0010627446430581001
+17,Halofuranones / MX-like DBPs,12,Mismatch repair,Mismatch repair,Genetic information,kegg_KEGG_MISMATCH_REPAIR,0.00063629968273639997,-0.0010296926254892999
+17,Halofuranones / MX-like DBPs,13,Homologous recombination,Homologous recombination,Genetic information,kegg_KEGG_HOMOLOGOUS_RECOMBINATION,0.0011039175622642001,-0.0014253730021806001
+17,Halofuranones / MX-like DBPs,14,Proteasome,Proteasome,Genetic information,kegg_KEGG_PROTEASOME,0.0022190959343945998,-0.001629577308135
+17,Halofuranones / MX-like DBPs,15,MAPK signaling,MAPK signaling,Environmental signaling,kegg_KEGG_MAPK_SIGNALING_PATHWAY,0.0149082283801467,0.0026692452577203002
+17,Halofuranones / MX-like DBPs,16,Calcium signaling,Calcium signaling,Environmental signaling,kegg_KEGG_CALCIUM_SIGNALING_PATHWAY,0.0167241282126885,0.0061236698088202998
+17,Halofuranones / MX-like DBPs,17,AhR / PXR / PPAR,AhR / PXR / PPAR,Environmental signaling,kegg_KEGG_PPAR_SIGNALING_PATHWAY,0.014102414020138501,0.0017327293886711
+17,Halofuranones / MX-like DBPs,18,Cytokine-receptor,Cytokine-receptor,Environmental signaling,kegg_KEGG_CYTOKINE_CYTOKINE_RECEPTOR_INTERACTION,0.023798389683000801,0.0099787897583555
+17,Halofuranones / MX-like DBPs,19,Cell cycle,Cell cycle,Cellular response,kegg_KEGG_CELL_CYCLE,0.0046575459622066996,-0.0010515333425506999
+17,Halofuranones / MX-like DBPs,20,Apoptosis,Apoptosis,Cellular response,kegg_KEGG_APOPTOSIS,0.0143856578705045,0.0035595680330721001
+17,Halofuranones / MX-like DBPs,21,Autophagy,Autophagy,Cellular response,kegg_KEGG_REGULATION_OF_AUTOPHAGY,0.0083429706121135993,0.0012682697271457
+17,Halofuranones / MX-like DBPs,22,Nrf2 oxidative stress,Nrf2 oxidative stress,Cellular response,kegg_KEGG_GLUTATHIONE_METABOLISM,0.0060444909062455998,0.001141468443601
+17,Halofuranones / MX-like DBPs,23,p53 signaling,p53 signaling,Organismal / disease,kegg_KEGG_P53_SIGNALING_PATHWAY,0.0111549350487395,0.0026233897617897999
+17,Halofuranones / MX-like DBPs,24,NF-kB signaling,NF-kB signaling,Organismal / disease,kegg_KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY,0.010826636341111201,0.0013241814834168001
+17,Halofuranones / MX-like DBPs,25,Neuroactive ligand-receptor,Neuroactive ligand-receptor,Organismal / disease,kegg_KEGG_NEUROACTIVE_LIGAND_RECEPTOR_INTERACTION,0.0223153481474959,0.0099396591922598001
+17,Halofuranones / MX-like DBPs,26,Immune signaling,Immune signaling,Organismal / disease,kegg_KEGG_T_CELL_RECEPTOR_SIGNALING_PATHWAY,0.0094264485193361995,0.0029520773570946
+17,Halofuranones / MX-like DBPs,27,Cancer pathways,Cancer pathways,Organismal / disease,kegg_KEGG_PATHWAYS_IN_CANCER,0.014420533256612101,0.0019640696612814
+18,Other non-halogenated model compounds,1,Glycolysis / TCA,Glycolysis / TCA,Metabolism,kegg_KEGG_CITRATE_CYCLE_TCA_CYCLE,-0.018811797038895899,-0.0267355133218545
+18,Other non-halogenated model compounds,2,OxPhos,OxPhos,Metabolism,kegg_KEGG_OXIDATIVE_PHOSPHORYLATION,-0.034081895262085798,-0.036691630494561603
+18,Other non-halogenated model compounds,3,Lipid metabolism,Lipid metabolism,Metabolism,kegg_KEGG_GLYCEROLIPID_METABOLISM,-0.026130940385067601,-0.039777390722940398
+18,Other non-halogenated model compounds,4,Amino acid metabolism,Amino acid metabolism,Metabolism,kegg_KEGG_ALANINE_ASPARTATE_AND_GLUTAMATE_METABOLISM,-0.046601957377742302,-0.052018832745771203
+18,Other non-halogenated model compounds,5,Nucleotide metabolism,Nucleotide metabolism,Metabolism,kegg_KEGG_PURINE_METABOLISM,-0.028899315257242299,-0.035936693992192702
+18,Other non-halogenated model compounds,6,Glycan metabolism,Glycan metabolism,Metabolism,kegg_KEGG_N_GLYCAN_BIOSYNTHESIS,-0.051959316829229302,-0.060222530757488901
+18,Other non-halogenated model compounds,7,Glutathione metabolism,Glutathione metabolism,Metabolism,kegg_KEGG_GLUTATHIONE_METABOLISM,-0.029366731250775598,-0.034269753713420101
+18,Other non-halogenated model compounds,8,Xenobiotic P450,Xenobiotic P450,Metabolism,kegg_KEGG_METABOLISM_OF_XENOBIOTICS_BY_CYTOCHROME_P450,0.0085185541337306006,0.0037348075934569001
+18,Other non-halogenated model compounds,9,DNA replication,DNA replication,Genetic information,kegg_KEGG_DNA_REPLICATION,-0.041754220086097499,-0.043290391149523898
+18,Other non-halogenated model compounds,10,Base excision repair,Base excision repair,Genetic information,kegg_KEGG_BASE_EXCISION_REPAIR,-0.032046278842551602,-0.036454004470364502
+18,Other non-halogenated model compounds,11,Nucleotide excision repair,Nucleotide excision repair,Genetic information,kegg_KEGG_NUCLEOTIDE_EXCISION_REPAIR,-0.0301257561000551,-0.033603743674307497
+18,Other non-halogenated model compounds,12,Mismatch repair,Mismatch repair,Genetic information,kegg_KEGG_MISMATCH_REPAIR,-0.034970533801072803,-0.036636526109298503
+18,Other non-halogenated model compounds,13,Homologous recombination,Homologous recombination,Genetic information,kegg_KEGG_HOMOLOGOUS_RECOMBINATION,-0.035887250495129003,-0.0384165410595739
+18,Other non-halogenated model compounds,14,Proteasome,Proteasome,Genetic information,kegg_KEGG_PROTEASOME,-0.0344378919391332,-0.038286565181662797
+18,Other non-halogenated model compounds,15,MAPK signaling,MAPK signaling,Environmental signaling,kegg_KEGG_MAPK_SIGNALING_PATHWAY,-0.0267205973235283,-0.0389595804459546
+18,Other non-halogenated model compounds,16,Calcium signaling,Calcium signaling,Environmental signaling,kegg_KEGG_CALCIUM_SIGNALING_PATHWAY,-0.041081432174501997,-0.051681890578370103
+18,Other non-halogenated model compounds,17,AhR / PXR / PPAR,AhR / PXR / PPAR,Environmental signaling,kegg_KEGG_PPAR_SIGNALING_PATHWAY,-0.0192493891089641,-0.031619073740431401
+18,Other non-halogenated model compounds,18,Cytokine-receptor,Cytokine-receptor,Environmental signaling,kegg_KEGG_CYTOKINE_CYTOKINE_RECEPTOR_INTERACTION,-0.056810603847905899,-0.070630203772551095
+18,Other non-halogenated model compounds,19,Cell cycle,Cell cycle,Cellular response,kegg_KEGG_CELL_CYCLE,-0.0300643568721107,-0.035773436176868102
+18,Other non-halogenated model compounds,20,Apoptosis,Apoptosis,Cellular response,kegg_KEGG_APOPTOSIS,-0.032829781461784502,-0.043655871299216803
+18,Other non-halogenated model compounds,21,Autophagy,Autophagy,Cellular response,kegg_KEGG_REGULATION_OF_AUTOPHAGY,-0.026301295440981299,-0.033375996325949099
+18,Other non-halogenated model compounds,22,Nrf2 oxidative stress,Nrf2 oxidative stress,Cellular response,kegg_KEGG_GLUTATHIONE_METABOLISM,-0.029366731250775598,-0.034269753713420101
+18,Other non-halogenated model compounds,23,p53 signaling,p53 signaling,Organismal / disease,kegg_KEGG_P53_SIGNALING_PATHWAY,-0.032041186398890899,-0.040572731685840503
+18,Other non-halogenated model compounds,24,NF-kB signaling,NF-kB signaling,Organismal / disease,kegg_KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY,-0.030528300345059999,-0.040030755202754301
+18,Other non-halogenated model compounds,25,Neuroactive ligand-receptor,Neuroactive ligand-receptor,Organismal / disease,kegg_KEGG_NEUROACTIVE_LIGAND_RECEPTOR_INTERACTION,-0.0585401211535959,-0.070915810108831898
+18,Other non-halogenated model compounds,26,Immune signaling,Immune signaling,Organismal / disease,kegg_KEGG_T_CELL_RECEPTOR_SIGNALING_PATHWAY,-0.041822478062574102,-0.048296849224815599
+18,Other non-halogenated model compounds,27,Cancer pathways,Cancer pathways,Organismal / disease,kegg_KEGG_PATHWAYS_IN_CANCER,-0.0183454300958532,-0.030801893691183801

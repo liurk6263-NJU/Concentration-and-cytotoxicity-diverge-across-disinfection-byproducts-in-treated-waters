@@ -1,0 +1,5 @@
+0,1,2,3,4,5
+Screening category,n,pLC50 range,Threshold counts,Interpretive use,
+,,,pLC50 ≥ 4.0,pLC50 ≥ 4.5,
+DBPs with missing data,"3,104",1.763–5.069,279 (9.0%),71 (2.3%),Experimental prioritization with confidence constraints
+Suspected DBPs linked to NCI compounds,"1,120",Not separately reported,25 (2.23%),5 (0.45%),Confirmatory and exploratory prioritization

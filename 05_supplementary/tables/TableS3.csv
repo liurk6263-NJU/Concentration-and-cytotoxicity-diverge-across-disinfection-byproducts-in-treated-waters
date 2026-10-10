@@ -1,0 +1,7 @@
+0,1,2,3,4
+Evaluation set,R2 by transfer setting,Gain in R2Authentic − interference,,
+,No transfer,Interference transfer,Authentic transfer,
+Random K-fold CV,0.570,0.686,0.803,0.118
+Held-out compounds,0.750,0.812,0.865,0.053
+Independent literature,0.593,0.730,0.801,0.071
+Independent experiments,0.051,0.603,0.848,0.245

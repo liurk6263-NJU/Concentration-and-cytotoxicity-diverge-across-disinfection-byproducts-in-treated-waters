@@ -1,0 +1,7 @@
+0,1,2,3,4,5
+Compound,pLC50,LC50 (mM),,,
+,Predicted,Measured,Absolute error,Predicted,Measured
+"2,6-Dichlorophenol",2.739,2.417,0.321,1.846,3.825
+2-Chloro-4-nitrophenol,3.222,3.198,0.024,0.604,0.633
+"3,5-Diiodo-4-hydroxybenzaldehyde",3.630,3.642,0.012,0.235,0.228
+5-Bromosalicylic acid,3.111,3.070,0.040,0.781,0.850

@@ -1,0 +1,8 @@
+0,1,2,3,4
+Group or sample,Observed share,Enrichment ratio,Interpretation,
+,Concentration (%),CAT (%),,
+"THMs + HAAs, all samples",84.5,28.2,0.33,"Dominant by detected mass, lower effect-weighted share"
+"Haloaldehydes, haloketones, haloacetonitriles and related components, all samples",14.1,70.3,4.99,"Lower mass fraction, dominant CAT contribution"
+S12: dichloroacetaldehyde + chloroacetone,22.8,77.1,3.38,"9th by concentration, 1st by CAT"
+S12: chloroacetone,2.8,25.3,8.9,Highest compound-level enrichment example
+S3: bromonitromethane,9.9,47.4,4.8,Lowest total concentration

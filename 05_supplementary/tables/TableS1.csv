@@ -1,0 +1,10 @@
+0,1,2,3
+Evaluation set,Feature stage,Model performance,
+,,R2,RMSE (pLC50)
+Random K-fold CV,Baseline structure,0.440,0.824
+Random K-fold CV,Optimized structure,0.570,0.722
+Random K-fold CV,Cross-cell transfer,0.803,0.488
+Held-out compounds,Baseline structure,0.543,0.727
+Held-out compounds,Optimized structure,0.750,0.536
+Held-out compounds,Cross-cell transfer,0.865,0.396
+Independent literature,Cross-cell transfer,0.801,0.496

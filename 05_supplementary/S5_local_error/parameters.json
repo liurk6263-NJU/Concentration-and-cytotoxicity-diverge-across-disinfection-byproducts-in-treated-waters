@@ -1,0 +1,10 @@
+{
+  "structural_similarity_population": "2910 CV out-of-fold predictions",
+  "dispersion_population": "369 samples with ten out-of-sample predictions each",
+  "local_error_sd_median": 0.15752449966148155,
+  "local_error_sd_q75": 0.22815296153326914,
+  "large_error_definition": "absolute error at or above the population 75th percentile",
+  "similarity_large_error_cutoff": 0.4935257358693682,
+  "dispersion_large_error_cutoff": 0.4502100015699488,
+  "candidate_support_sd_cutoff": 0.164945
+}

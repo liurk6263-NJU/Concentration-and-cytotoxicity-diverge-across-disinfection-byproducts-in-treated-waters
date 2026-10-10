@@ -1,0 +1,9 @@
+0,1,2,3
+Evidence level,Scale,Analytical role,Model-selection status
+CHO-K1 development data,291 records,"Random K-fold CV, tuning and final fitting",Development labels
+CHO-K1 held-out test set,37 records,Evaluation of unseen compounds,Not used for tuning or fusion-weight selection
+Independent literature set,37 records,Independent-source evaluation,Isolated before model selection
+Independent experimental set,4 compounds,Independent experimental check,Unavailable during algorithm and hyperparameter selection
+NCI-60 source domain,"2,136 responses; 36 compounds; 60 cell lines",Transfer responses and pre-exposure cellular-state information,No CHO-K1 labels used
+Defined mixtures,3 mixtures,Mixture-ranking validation,Downstream validation only
+Treated-water survey,63 samples; 12 displayed,Concentration and effect-weighted ranking,Not used for fitting

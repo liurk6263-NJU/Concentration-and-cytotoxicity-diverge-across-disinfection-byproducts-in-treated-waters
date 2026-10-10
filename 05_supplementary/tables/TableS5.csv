@@ -1,0 +1,5 @@
+0,1,2,3,4,5
+Mixture group,Composition,Ranking across CAT indices,Experimental vs BCAT (%),Model vs BCAT (%),MDR (experimental; model)
+Group 1,"2,6-Dichlorophenol + 2-chloro-4-nitrophenol",3rd (lowest),9.43,2.16,1.36; 1.06
+Group 2,"3,5-Diiodo-4-hydroxybenzaldehyde + 5-bromosalicylic acid",1st (highest),14.51,16.35,0.87; 0.74
+Group 3,All four independently tested compounds,2nd,6.57,15.82,1.11; 0.88
