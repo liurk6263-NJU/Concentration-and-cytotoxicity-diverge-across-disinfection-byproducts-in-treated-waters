@@ -1,6 +1,6 @@
-# Code Ocean capsule layout
+# Code capsule layout
 
-`analysis/` is the exact internal snapshot from `nature_water_repro_package_1008_20261009_new`. It is split across the capsule's `code/analysis`, `data/analysis`, and `results/analysis` folders only at the outer layer; the runner reconstructs the original relative directory tree in a temporary workspace before executing the published checks. This preserves the package's SHA-256 manifest and relative imports.
+It is split across the capsule's `code/analysis`, `data/analysis`, and `results/analysis` folders only at the outer layer; the runner reconstructs the original relative directory tree in a temporary workspace before executing the published checks. This preserves the package's SHA-256 manifest and relative imports.
 
 Set `code/run.sh` as the capsule's run file. The run is deterministic and non-interactive:
 
