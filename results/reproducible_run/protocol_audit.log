@@ -1,0 +1,231 @@
+{
+  "protocol": "canonical_smiles + exposure_time independence",
+  "role_split_audit": {
+    "independence_unit": "canonical_smiles + exposure_time",
+    "same_structure_different_exposure_time": "allowed and treated as distinct observations by protocol",
+    "same_structure_same_exposure_time": "must remain in one role and one random-CV fold",
+    "by_seed": [
+      {
+        "split_seed": 20260021,
+        "rows_by_role": {
+          "experimental": 4,
+          "test": 37,
+          "train": 291,
+          "validation": 37
+        },
+        "random_cv_oof_is_train_view": true,
+        "random_cv_oof_keys_equal_train_keys": true,
+        "canonical_time_cross_role": {
+          "experimental__test": 0,
+          "experimental__train": 0,
+          "experimental__validation": 0,
+          "test__train": 0,
+          "test__validation": 0,
+          "train__validation": 0
+        },
+        "canonical_time_keys_in_multiple_cv_folds": 0
+      },
+      {
+        "split_seed": 20260106,
+        "rows_by_role": {
+          "experimental": 4,
+          "test": 37,
+          "train": 291,
+          "validation": 37
+        },
+        "random_cv_oof_is_train_view": true,
+        "random_cv_oof_keys_equal_train_keys": true,
+        "canonical_time_cross_role": {
+          "experimental__test": 0,
+          "experimental__train": 0,
+          "experimental__validation": 0,
+          "test__train": 0,
+          "test__validation": 0,
+          "train__validation": 0
+        },
+        "canonical_time_keys_in_multiple_cv_folds": 0
+      },
+      {
+        "split_seed": 20260290,
+        "rows_by_role": {
+          "experimental": 4,
+          "test": 37,
+          "train": 291,
+          "validation": 37
+        },
+        "random_cv_oof_is_train_view": true,
+        "random_cv_oof_keys_equal_train_keys": true,
+        "canonical_time_cross_role": {
+          "experimental__test": 0,
+          "experimental__train": 0,
+          "experimental__validation": 0,
+          "test__train": 0,
+          "test__validation": 0,
+          "train__validation": 0
+        },
+        "canonical_time_keys_in_multiple_cv_folds": 0
+      },
+      {
+        "split_seed": 20260307,
+        "rows_by_role": {
+          "experimental": 4,
+          "test": 37,
+          "train": 291,
+          "validation": 37
+        },
+        "random_cv_oof_is_train_view": true,
+        "random_cv_oof_keys_equal_train_keys": true,
+        "canonical_time_cross_role": {
+          "experimental__test": 0,
+          "experimental__train": 0,
+          "experimental__validation": 0,
+          "test__train": 0,
+          "test__validation": 0,
+          "train__validation": 0
+        },
+        "canonical_time_keys_in_multiple_cv_folds": 0
+      },
+      {
+        "split_seed": 20260605,
+        "rows_by_role": {
+          "experimental": 4,
+          "test": 37,
+          "train": 291,
+          "validation": 37
+        },
+        "random_cv_oof_is_train_view": true,
+        "random_cv_oof_keys_equal_train_keys": true,
+        "canonical_time_cross_role": {
+          "experimental__test": 0,
+          "experimental__train": 0,
+          "experimental__validation": 0,
+          "test__train": 0,
+          "test__validation": 0,
+          "train__validation": 0
+        },
+        "canonical_time_keys_in_multiple_cv_folds": 0
+      },
+      {
+        "split_seed": 20260730,
+        "rows_by_role": {
+          "experimental": 4,
+          "test": 37,
+          "train": 291,
+          "validation": 37
+        },
+        "random_cv_oof_is_train_view": true,
+        "random_cv_oof_keys_equal_train_keys": true,
+        "canonical_time_cross_role": {
+          "experimental__test": 0,
+          "experimental__train": 0,
+          "experimental__validation": 0,
+          "test__train": 0,
+          "test__validation": 0,
+          "train__validation": 0
+        },
+        "canonical_time_keys_in_multiple_cv_folds": 0
+      },
+      {
+        "split_seed": 20260738,
+        "rows_by_role": {
+          "experimental": 4,
+          "test": 37,
+          "train": 291,
+          "validation": 37
+        },
+        "random_cv_oof_is_train_view": true,
+        "random_cv_oof_keys_equal_train_keys": true,
+        "canonical_time_cross_role": {
+          "experimental__test": 0,
+          "experimental__train": 0,
+          "experimental__validation": 0,
+          "test__train": 0,
+          "test__validation": 0,
+          "train__validation": 0
+        },
+        "canonical_time_keys_in_multiple_cv_folds": 0
+      },
+      {
+        "split_seed": 20260755,
+        "rows_by_role": {
+          "experimental": 4,
+          "test": 37,
+          "train": 291,
+          "validation": 37
+        },
+        "random_cv_oof_is_train_view": true,
+        "random_cv_oof_keys_equal_train_keys": true,
+        "canonical_time_cross_role": {
+          "experimental__test": 0,
+          "experimental__train": 0,
+          "experimental__validation": 0,
+          "test__train": 0,
+          "test__validation": 0,
+          "train__validation": 0
+        },
+        "canonical_time_keys_in_multiple_cv_folds": 0
+      },
+      {
+        "split_seed": 20260998,
+        "rows_by_role": {
+          "experimental": 4,
+          "test": 37,
+          "train": 291,
+          "validation": 37
+        },
+        "random_cv_oof_is_train_view": true,
+        "random_cv_oof_keys_equal_train_keys": true,
+        "canonical_time_cross_role": {
+          "experimental__test": 0,
+          "experimental__train": 0,
+          "experimental__validation": 0,
+          "test__train": 0,
+          "test__validation": 0,
+          "train__validation": 0
+        },
+        "canonical_time_keys_in_multiple_cv_folds": 0
+      },
+      {
+        "split_seed": 20262000,
+        "rows_by_role": {
+          "experimental": 4,
+          "test": 37,
+          "train": 291,
+          "validation": 37
+        },
+        "random_cv_oof_is_train_view": true,
+        "random_cv_oof_keys_equal_train_keys": true,
+        "canonical_time_cross_role": {
+          "experimental__test": 0,
+          "experimental__train": 0,
+          "experimental__validation": 0,
+          "test__train": 0,
+          "test__validation": 0,
+          "train__validation": 0
+        },
+        "canonical_time_keys_in_multiple_cv_folds": 0
+      }
+    ],
+    "passed": true,
+    "failures": []
+  },
+  "source_domain_overlap_audit": {
+    "source_domain_compounds": 36,
+    "target_development_compounds": 285,
+    "source_target_identical_canonical_structures": 8,
+    "experimental_compounds_excluded_from_literature": 4,
+    "experimental_compounds_remaining_in_literature": 0,
+    "passed": true
+  },
+  "leave_identical_compound_out_audit": {
+    "rows": 10,
+    "seed_count": 10,
+    "identical_source_structures_per_seed": [
+      8
+    ],
+    "hard_failure_count": 0,
+    "all_status_passed": true,
+    "passed": true
+  },
+  "passed": true
+}

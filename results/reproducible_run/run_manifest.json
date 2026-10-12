@@ -1,0 +1,78 @@
+{
+  "runner": "code/run_capsule.py",
+  "workspace_reconstructed": true,
+  "commands": [
+    {
+      "name": "protocol_audit",
+      "command": [
+        "D:\\Program Files\\Python\\python.exe",
+        "D:\\研究生\\课题\\1.深度学习预测LC50\\模型0822\\nature_water_codeocean_capsule_20261011\\code\\audit_protocol.py",
+        "C:\\Users\\OPPENH~1\\AppData\\Local\\Temp\\nature_water_repro_p6k_krpl"
+      ],
+      "status": "passed",
+      "log": "protocol_audit.log"
+    },
+    {
+      "name": "verification",
+      "command": [
+        "D:\\Program Files\\Python\\python.exe",
+        "verify.py"
+      ],
+      "status": "passed",
+      "log": "verification.log"
+    },
+    {
+      "name": "screening_selection",
+      "command": [
+        "D:\\Program Files\\Python\\python.exe",
+        "04_screening/code/selection.py"
+      ],
+      "status": "passed",
+      "log": "screening_selection.log"
+    },
+    {
+      "name": "screening_domain",
+      "command": [
+        "D:\\Program Files\\Python\\python.exe",
+        "04_screening/code/domain.py"
+      ],
+      "status": "passed",
+      "log": "screening_domain.log"
+    },
+    {
+      "name": "treated_water",
+      "command": [
+        "D:\\Program Files\\Python\\python.exe",
+        "02_treated_water/code/calculate.py"
+      ],
+      "status": "passed",
+      "log": "treated_water.log"
+    },
+    {
+      "name": "cellular_state",
+      "command": [
+        "D:\\Program Files\\Python\\python.exe",
+        "05_supplementary/S4_cellular_state/calculate.py"
+      ],
+      "status": "passed",
+      "log": "cellular_state.log"
+    }
+  ],
+  "outputs": [
+    "Figure2.png",
+    "Figure3.png",
+    "Figure4.png",
+    "Figure5ab.png",
+    "Figure5c.png",
+    "cellular_state.log",
+    "class_contributions.csv",
+    "protocol_audit.json",
+    "protocol_audit.log",
+    "screening_domain.log",
+    "screening_selection.json",
+    "screening_selection.log",
+    "treated_water.log",
+    "verification.json",
+    "verification.log"
+  ]
+}

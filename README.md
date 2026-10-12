@@ -1,6 +1,6 @@
 # Nature Water reproducibility data
 
-Source data, code, fixed parameters and frozen results for NW-Manuscript-1008 and NW-Supporting Information-1008. INDEX.csv follows the manuscript and SI. Shared inputs are stored once. figure_versions.csv identifies the author-updated SVG/PNG files.
+Source data, code, fixed parameters and frozen results for NW-Manuscript-1008 and NW-Supporting Information-1008. INDEX.csv follows the manuscript and SI. Shared inputs are stored once. figure_versions.csv identifies the author-updated SVG/PNG files. Raw workbooks use English filenames, sheet names and labels; numeric values, formulas, SMILES and record counts are unchanged from the supplied source files.
 
 | Folder | Content |
 |---|---|
@@ -28,4 +28,4 @@ python 04_screening/code/selection.py
 python 04_screening/code/domain.py
 ```
 
-Model and analysis entries are listed in INDEX.csv. verify.py checks original hashes, frozen-prediction metrics, role/fold isolation, selected records and package integrity. The source workbook adds explicit Figure 3 and Figure S3 verification summaries.
+Model and analysis entries are listed in INDEX.csv. verify.py checks the recorded raw hashes, frozen-prediction metrics, role/fold isolation, selected records and package integrity. The source workbook adds explicit Figure 3 and Figure S3 verification summaries. The raw-hash records were regenerated after the English-only workbook and filename cleanup.

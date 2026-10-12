@@ -1,0 +1,13 @@
+title: Nature Water DBP cytotoxicity reproducibility capsule
+description: >-
+  Reproducibility capsule for the Nature Water manuscript NW-Manuscript-1008 and
+  its supporting information. The default run validates the frozen package,
+  replays the screening checks, validates the local-error domain, and writes
+  machine-readable logs and selected outputs to /results/reproducible_run.
+citation: Nature Water manuscript NW-Manuscript-1008 (peer-review version)
+tags:
+  - reproducibility
+  - cytotoxicity
+  - disinfection by-products
+  - machine learning
+license: Other

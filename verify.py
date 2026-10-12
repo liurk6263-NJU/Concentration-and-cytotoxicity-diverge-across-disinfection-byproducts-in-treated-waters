@@ -125,7 +125,7 @@ def main():
     domain.domain()
     check('Local-error source values and population thresholds',True)
     from openpyxl import load_workbook
-    water=load_workbook(ROOT/'02_treated_water/data_raw/treated_water.xlsx',read_only=True,data_only=True)
+    water=load_workbook(ROOT/'02_treated_water/data_raw/treated_water_english.xlsx',read_only=True,data_only=True)
     samples=sum(any(v is not None for v in row) for row in water['wide_sample_DBP_Ci'].iter_rows(values_only=True))-1
     occurrences=sum(any(v is not None for v in row) for row in water['long_sample_DBP_Ci'].iter_rows(values_only=True))-1
     check('Water: 63 samples and 614 occurrence records',samples==63 and occurrences==614)

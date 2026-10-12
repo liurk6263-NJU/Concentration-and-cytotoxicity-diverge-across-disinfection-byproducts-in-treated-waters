@@ -1,0 +1,18 @@
+name: nature-water-repro
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - numpy==2.3.5
+      - pandas==2.3.3
+      - scikit-learn==1.7.2
+      - openpyxl==3.1.5
+      - pyarrow==21.0.0
+      - rdkit==2025.9.3
+      - catboost==1.2.8
+      - xgboost==3.1.2
+      - matplotlib>=3.8
+      - scipy>=1.11
+      - shap>=0.45

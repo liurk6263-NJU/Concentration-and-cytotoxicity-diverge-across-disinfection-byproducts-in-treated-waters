@@ -4,7 +4,7 @@
     "name": "DBPs_CHO_LC50_DBPs_20260604.xlsx",
     "sha256": "f846e9aecf87dc6cb66565f921976fd04c2098ef561bd1ee903785ce6bef7658"
   },
-  "sheet_name": "文献数据",
+  "sheet_name": "literature_data",
   "source_column": "文献来源_二级(文献中文名，DOI即可)",
   "selected_sources": [],
   "validation_source_row_count": 0,

@@ -8,7 +8,7 @@ from rdkit.Chem import Descriptors
 ROOT=Path(__file__).resolve().parents[1]
 DATA=ROOT/'06_source_data/mixture_water_chain'
 
-water=pd.read_excel(ROOT/'02_treated_water/data_raw/treated_water.xlsx',sheet_name='long_sample_DBP_Ci')
+water=pd.read_excel(ROOT/'02_treated_water/data_raw/treated_water_english.xlsx',sheet_name='long_sample_DBP_Ci')
 converted=pd.read_csv(DATA/'Figure3_raw_occurrence_614.csv')
 assert len(water)==len(converted)==614
 expected_molar=water.Ci_value_ug_L.to_numpy()*1e-6/np.array([Descriptors.MolWt(Chem.MolFromSmiles(s)) for s in water.DBPs])

@@ -1,0 +1,10 @@
+{
+  "candidate_sd_median": 0.1649446199083014,
+  "candidate_sd_q75": 0.23319295933205522,
+  "local_error_sd_median": 0.15752449966148155,
+  "local_error_sd_q75": 0.22815296153326914
+}
+ sd_band   n      mae      mse  high_error_rate     rmse
+    high  92 0.448918 0.331298         0.423913 0.575585
+     low 185 0.232887 0.111396         0.162162 0.333761
+moderate  92 0.340630 0.206226         0.260870 0.454121
