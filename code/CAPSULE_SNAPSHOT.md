@@ -1,3 +1,3 @@
-# Exact package snapshot
+# Package version
 
-The capsule is assembled from the supplied `nature_water_repro_package_1008_20261009.zip`. Raw workbook and evidence labels were translated to English without changing numeric values, formulas, SMILES or record counts. Any subsequent edit under `analysis/` requires regenerating `MANIFEST.json`, `checksums.sha256` and the relevant raw-hash records.
+The GitHub repository and Code Ocean capsule contain the same analysis files in different folder layouts. INDEX.csv maps the files to figures and Supplementary Information items. MANIFEST.json records the analysis file versions and the original document identifiers.

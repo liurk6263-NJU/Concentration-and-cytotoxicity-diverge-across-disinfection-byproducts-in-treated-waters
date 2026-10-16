@@ -50,5 +50,6 @@
       "Prediction D input and exact statistic level"
     ],
     "current_plot_source": "05_supplementary/S3_mixtures/code/plot.py contains frozen CAT/MDR/CI/p/D and divides each CAT stack equally."
-  }
+  },
+  "record_scope": "Historical source-recovery diagnostic; see chain_status.md and the source workbook for the current comparisons."
 }

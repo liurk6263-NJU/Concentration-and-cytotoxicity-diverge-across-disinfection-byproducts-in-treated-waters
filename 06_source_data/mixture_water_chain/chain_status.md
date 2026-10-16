@@ -1,7 +1,13 @@
-# CAT chain status
+# CAT calculations and sources
 
-Water: the 614 original Ci records, 329 displayed rows and 63 process records are included. CAT = sum(Ci_mol_L / final_model_LC50_mol_L). Category components close to the frozen sample totals within floating-point rounding; Figure 3 c/d is verified by final-model prediction and back-calculation under the author-defined small-difference criterion. The S12 share check records that SI values 22.8 and 2.8 are percentages.
+## Treated water
 
-Mixture: the original mixture workbook, four single-compound inputs, forty monomer-seed predictions, thirty mixture-seed predictions and frozen Figure S3 panel values are included. Equitoxic contribution is the specified design. BCAT and experimental D are reproducible from the original fitted LC50 rows. CAT, MDR, CI/p and D are verified against the current SI by reverse calculation; direct Ci is not expected for this design.
+The inputs contain 614 concentration records, 329 displayed occurrence rows and 63 process records. CAT = sum(Ci_mol_L / final_model_LC50_mol_L). The category components sum to the plotted sample totals within floating-point rounding.
 
-The package preserves raw inputs, code, fixed parameters, frozen plotted values and explicit verification summaries without substituting outputs from an older model version.
+Fig3_verification in the source workbook compares the model predictions and back-calculated values for Figure 3c,d. The S12 shares reported in the Supplementary Information are 22.8% and 2.8%.
+
+## Mixtures
+
+Figure S3 uses an equitoxic mixture design. The files include the mixture measurements, four single-compound inputs, forty monomer-seed predictions, thirty mixture-seed predictions and saved panel values.
+
+BCAT and experimental D are calculated from the fitted experimental LC50 values. CAT, MDR, CI/p and D are checked by reverse calculation against the Supplementary Information in FigS3_verification. Mixture Ci values are derived from the equitoxic design rather than measured concentrations.

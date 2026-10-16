@@ -1,5 +1,5 @@
 # Input data
 
-The capsule stores the package's raw and processed inputs under `data/analysis`, preserving the analysis layout (for example `01_models/data_raw` and `04_screening/data_raw`). Raw files use English filenames, sheet names and labels for submission. Numeric values, formulas, SMILES and record counts are unchanged. The run reconstructs these paths beside the source code in a temporary workspace so that the data contract and recorded hash checks remain valid.
+In the GitHub repository, raw and processed inputs are stored in the numbered analysis folders. In the Code Ocean capsule, these files are under data/analysis with the same folder numbering.
 
-Before public release, confirm that every bundled dataset and external database file is licensed for redistribution. If a file cannot be redistributed, replace it with a documented Code Ocean Data Asset or access instruction and update the package hash manifest accordingly.
+INDEX.csv lists the inputs for each figure and Supplementary Information item. The source workbook and its sheet index are in 06_source_data. Data origins and calculation methods are described in source_status.csv.

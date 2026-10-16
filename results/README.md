@@ -1,3 +1,5 @@
 # Results
 
-`analysis/` contains the frozen figures, tables and prediction files from the reproducibility package. `reproducible_run/` is populated by `code/run.sh` at runtime and contains the verification JSON, command logs, recalculated class-contribution table and selected frozen figures.
+Figures, tables and predictions are stored in the numbered analysis folders on GitHub and under results/analysis in the Code Ocean capsule.
+
+reproducible_run contains the recorded capsule outputs, including figures, verification reports, recalculated class contributions and run logs.

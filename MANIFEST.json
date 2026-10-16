@@ -1,5 +1,5 @@
 {
-  "release": "Nature Water current figures, manuscript 1008 and SI 1008",
+  "release": "Data and code accompanying the study",
   "metric_aggregation": "arithmetic mean of ten seed-specific metrics",
   "documents": {
     "NW-Manuscript-1008.docx": "9ab0d2ef3951e61d65c40702ef0972f3a80280298463dc5306b07045f241ea67",
@@ -8,7 +8,7 @@
   "figure_version_map": "figure_versions.csv",
   "source_workbook": "06_source_data/Source_Data_Figures_Tables_1009.xlsx",
   "source_status": "06_source_data/source_status.csv",
-  "scientific_verification": "Frozen results, numeric provenance and role/fold isolation checks; Figure 3 and Figure S3 pass the author-defined model/back-calculation verification criterion.",
+  "scientific_verification": "Saved predictions, partition checks and model/back-calculation comparisons for Figures 3 and S3.",
   "files": [
     {
       "path": "00_workflow/Figure1.png",
@@ -492,8 +492,8 @@
     },
     {
       "path": "02_treated_water/Figure3_label_mapping_1008.md",
-      "bytes": 562,
-      "sha256": "22477f47577038491743938b3666339ffae77032d9bad5f46b5527e36921114c"
+      "bytes": 731,
+      "sha256": "682d2c6acd3c6e20c53043d9f2992d5cc33f76dc9a34221fce87987aa3b3e87b"
     },
     {
       "path": "02_treated_water/results/Figure3_source_data.csv",
@@ -1047,13 +1047,13 @@
     },
     {
       "path": "06_source_data/mixture_water_chain/chain_findings.json",
-      "bytes": 2178,
-      "sha256": "2ba0cf491af5f7e55f6d80ff33c7a80bd679bc856e4961bb240d121c5d1fee6b"
+      "bytes": 2259,
+      "sha256": "40d4cab5025e03c4294204e7dc34d78e6ebe3a36486eececced97870c00b7492"
     },
     {
       "path": "06_source_data/mixture_water_chain/chain_status.md",
-      "bytes": 1055,
-      "sha256": "4f5465a19729d5c04ae7399e4a1a94ea03dcf2c7d1e2de100062d5d1fde979a7"
+      "bytes": 990,
+      "sha256": "3a11b117db21fff1c0668b1ffbd37d4ef883756e0fa9f6d4caaf05c7589c87e3"
     },
     {
       "path": "06_source_data/mixture_water_chain/Figure3_frozen_plot_data_96.csv",
@@ -1122,8 +1122,8 @@
     },
     {
       "path": "06_source_data/source_status.csv",
-      "bytes": 1971,
-      "sha256": "081e705ddca7d2035bc09e9a20659a9b931c81c97e804f45a8e86d74813dd2b7"
+      "bytes": 1883,
+      "sha256": "b7d192f3c30c1bf59e004e9f7039e07926ed36c39d90f597a95aec0336d2e05e"
     },
     {
       "path": "06_source_data/workbook_index.csv",
@@ -1147,8 +1147,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 2972,
-      "sha256": "bfd889aff02ccd416a30a5c0d19683a244b94a75eb7e587604983105cd25f56c"
+      "bytes": 1573,
+      "sha256": "35b372abb1d95dbc49272cc5c9a2a7a5e94a73d895a0f459531ce86ef704ce08"
     },
     {
       "path": "requirements.txt",
